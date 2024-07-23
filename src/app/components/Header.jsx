@@ -9,7 +9,7 @@ export default function Header() {
         <nav className='flex items-center justify-between space-x-5 font-semibold font-sans'>
             <Link href='/'>
                 <ul>
-                    <li>Home</li>
+                    <li>Matrimony</li>
                 </ul>
             </Link>
             <Link href='/'>
@@ -19,12 +19,17 @@ export default function Header() {
             </Link>
             <Link href='/'>
                 <ul>
-                    <li>Gallery</li>
+                    <li>Registry</li>
                 </ul>
             </Link>
             <Link href='/'>
                 <ul>
-                    <li>Portfolio</li>
+                    <li>Support Us</li>
+                </ul>
+            </Link>
+            <Link href='/'>
+                <ul>
+                    <li>Traditional</li>
                 </ul>
             </Link>
         
