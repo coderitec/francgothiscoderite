@@ -24,12 +24,12 @@ export default function Header() {
             </Link>
             <Link href='/'>
                 <ul>
-                    <li>Support Us</li>
+                    <li>Traditional</li>
                 </ul>
             </Link>
             <Link href='/'>
                 <ul>
-                    <li>Traditional</li>
+                    <li>Support Us</li>
                 </ul>
             </Link>
         
