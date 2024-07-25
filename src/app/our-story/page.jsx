@@ -1,4 +1,9 @@
 'use client'
+import { data } from '../components/data'
+import ImageList from '@mui/material/ImageList';
+import ImageListItem from '@mui/material/ImageListItem';
+import ImageListItemBar from '@mui/material/ImageListItemBar';
+import Image from 'next/image';
 
 export default function StoryPage() {
   return (
