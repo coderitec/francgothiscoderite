@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 export const data = [
   {
     "id": 1,
@@ -56,3 +57,182 @@ export const data = [
     "imageUrl": "/images/honeymoon.jpg"
   }
 ];
+=======
+const supportData = [
+    {
+        title: 'air fryer',
+        link: 'https://www.jumia.com.ng/catalog/?q=air+fryer',
+        amount: '46000',
+        category: 'k'
+
+    },
+    {
+        title: 'microwave',
+        link: 'https://www.jumia.com.ng/catalog/?q=microwave',
+        amount: '59000',
+        category: 'k'
+
+    },
+    {
+        title: 'sets of ceramic pots',
+        link: 'https://www.jumia.com.ng/catalog/?q=cooking+ceramic+cookware+pot+sets',
+        amount: '160000',
+        category: 'k'
+
+    },
+    {
+        title: 'dinnerware',
+        link: 'https://www.jumia.com.ng/catalog/?q=dinnerware',
+        amount: '65000',
+        category: 'k'
+
+    },
+    {
+        title: 'glass cups and wine glasses',
+        link: 'https://www.jumia.com.ng/catalog/?q=Glass+cups+and+wine+glasses',
+        amount: '19000',
+        category: 'k'
+
+    },
+    {
+        title: 'Cutlery set',
+        link: 'https://www.jumia.com.ng/catalog/?q=Cutlery+set',
+        amount: '29000',
+        category: 'k'
+
+    },
+    {
+        title: 'Electric oven',
+        link: 'https://www.jumia.com.ng/catalog/?q=Electric+oven',
+        amount: '65000',
+        category: 'k'
+
+    },
+    {
+        title: 'pressure pot',
+        link: 'https://www.jumia.com.ng/catalog/?q=Pressure+pot',
+        amount: '35000',
+        category: 'k'
+
+    },
+    {
+        title: 'Ramekins',
+        link: 'https://www.jumia.com.ng/catalog/?q=Ramekins',
+        amount: '46000',
+        category: 'k'
+
+    },
+    {
+        title: 'Coffee machine',
+        link: 'https://www.jumia.com.ng/catalog/?q=Coffee+machine',
+        amount: '69990',
+        category: 'k'
+
+    },
+    {
+        title: 'food staorage set',
+        link: 'https://www.jumia.com.ng/catalog/?q=Food+storage+sets',
+        amount: '112000',
+        category: 'k'
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+    {
+        title: '',
+        link: '',
+        amount: '',
+        category: ''
+
+    },
+]
+>>>>>>> Stashed changes
