@@ -23,22 +23,22 @@ export default function CashGift({params}) {
 
     <div className="rounded-md border-8 border-slate-950 p-8 font-mono my-4">
         <p className="flex md:flex-row flex-col justify-between space-x-6 py-4 text-2xl">
-            <span className="bg-slate-950 text-slate-300 p-2">Send to Nassy:</span> 
-            <span  className="bg-slate-950 text-slate-300 p-2">6007175776</span>
-            <span className="bg-slate-950 text-slate-300 p-2">keystone Bank</span>
+            <span className="bg-slate-950/75 text-slate-300 p-2">Send to Nassy:</span> 
+            <span  className="bg-slate-950/75 text-slate-300 p-2">6007175776</span>
+            <span className="bg-slate-950/75 text-slate-300 p-2">keystone Bank</span>
         </p>
         <p className="flex md:flex-row flex-col justify-between space-x-6 py-4 text-2xl">
-            <span className="bg-slate-950 text-slate-300 p-2">Send to Franc:</span> 
-            <span className="bg-slate-950 text-slate-300 p-2">3028799170</span>
-            <span className="bg-slate-950 text-slate-300 p-2">First Bank</span>
+            <span className="bg-slate-950/75 text-slate-300 p-2">Send to Franc:</span> 
+            <span className="bg-slate-950/75 text-slate-300 p-2">3028799170</span>
+            <span className="bg-slate-950/75 text-slate-300 p-2">First Bank</span>
         </p>
     </div>
-        <div className="bg-slate-950 text-slate-300 p-2 my-2 text-3xl capitalize font-mono hover:bg-slate-700">
+        <div className="bg-slate-950/75 text-slate-300 p-2 my-2 text-3xl capitalize font-mono hover:bg-slate-700">
         <Link href={gifts.link} target="_blank">
         buy from store instead
         </Link>
         </div>
-        <div className="bg-slate-950 text-slate-300 p-2 my-2 text-3xl">
+        <div className="bg-slate-950/25 text-slate-300 p-2 my-2 text-3xl">
             <p>Thank You For Your Support</p>
         </div>
 
