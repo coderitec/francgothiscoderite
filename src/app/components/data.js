@@ -1,4 +1,4 @@
-const supportData = [
+export const supportData = [
     {
         title: 'air fryer',
         link: 'https://www.jumia.com.ng/catalog/?q=air+fryer',
