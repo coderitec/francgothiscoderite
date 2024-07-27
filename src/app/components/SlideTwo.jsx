@@ -4,8 +4,8 @@ import { LuCalendar, LuClock4 } from "react-icons/lu";
 
 export default function SlideTwo() {
     return (
-        <div className='bg-[url(/beach.jpg)] min-h-[140vh] bg-no-repeat bg-cover'>
-            <div className='backdrop-brightness-75 h-[140vh]'>
+        <div className='bg-[url(/beach.jpg)] h-[130vh] bg-no-repeat bg-cover'>
+            <div className='backdrop-brightness-75 h-[130vh]'>
 
                 <div className='flex flex-col items-center justify-center py-32 space-y-4'>
 

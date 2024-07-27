@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import HomePage from "./components/HomePage";
 import SlideOne from "./components/SlideOne";
 import SlideTwo from "./components/SlideTwo";
+import StoryPage from "./our-story/page";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <HomePage />
       <SlideOne />
       <SlideTwo />
+      <StoryPage />
       
     </main>
   );

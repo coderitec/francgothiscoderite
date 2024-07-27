@@ -9,7 +9,7 @@ export default function SlideOne() {
     <div className='flex flex-col items-center justify-between py-28 min-h-[110vh] bg-[whitesmoke] overflow-x-hidden'>
       <div className='text-center space-y-3'>
 
-        <h1 className='text-6xl text-yellow-300'>We are honored to have you!</h1>
+        <h1 className='text-6xl text-yellow-300 font-bold'>We are honored to have you!</h1>
         <p className='text-[gray] font-serif'>join us for the celebration of our Holy Matrimony on</p>
         <p className='font-serif'>October 23rd, 2024</p>
         <p className='font-serif'>at St. Michael Catholic Church, Lafiaji, Lagos Island</p>
