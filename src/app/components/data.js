@@ -1,63 +1,3 @@
-<<<<<<< Updated upstream
-export const data = [
-  {
-    "id": 1,
-    "date": "2024/01/15",
-    "title": "Engagement",
-    "description": "The couple gets engaged, marking the beginning of their journey towards marriage.",
-    "imageUrl": "/images/engagement.jpg"
-  },
-  {
-    "id": 2,
-    "date": "2024/02/20",
-    "title": "Engagement Party",
-    "description": "A celebration with family and friends to announce the engagement and share the joy.",
-    "imageUrl": "/images/engagement-party.jpg"
-  },
-  {
-    "id": 3,
-    "date": "2024/03/01",
-    "title": "Wedding Planning Begins",
-    "description": "The couple starts planning their wedding, including setting a date, choosing a venue, and discussing details.",
-    "imageUrl": "/images/wedding-planning.jpg"
-  },
-  {
-    "id": 4,
-    "date": "2024/05/10",
-    "title": "Bridal Shower",
-    "description": "A pre-wedding celebration for the bride, often hosted by family or friends.",
-    "imageUrl": "/images/bridal-shower.jpg"
-  },
-  {
-    "id": 5,
-    "date": "2024/05/15",
-    "title": "Groom's Shower",
-    "description": "A pre-wedding celebration for the groom, typically involving activities or gatherings with his friends.",
-    "imageUrl": "/images/grooms-shower.jpg"
-  },
-  {
-    "id": 6,
-    "date": "2024/09/10",
-    "title": "Rehearsal Dinner",
-    "description": "A dinner for the wedding party and close family to rehearse the ceremony and enjoy a meal together.",
-    "imageUrl": "/images/rehearsal-dinner.jpg"
-  },
-  {
-    "id": 7,
-    "date": "2024/09/11",
-    "title": "Wedding Day",
-    "description": "The couple’s wedding day, including the ceremony, reception, and celebrations with guests.",
-    "imageUrl": "/images/wedding-day.jpg"
-  },
-  {
-    "id": 8,
-    "date": "2024/09/14",
-    "title": "Honeymoon",
-    "description": "The couple’s trip immediately following the wedding to relax and celebrate their marriage.",
-    "imageUrl": "/images/honeymoon.jpg"
-  }
-];
-=======
 const supportData = [
     {
         title: 'air fryer',
@@ -82,31 +22,31 @@ const supportData = [
     },
     {
         title: 'dinnerware',
-        link: 'https://www.jumia.com.ng/catalog/?q=dinnerware',
+        link: 'https://www.instagram.com/p/C7ZN8UVpwOM/?igsh=MXh4OW9iNGVwN3dmeQ== ',
         amount: '65000',
         category: 'k'
-
+        
     },
     {
         title: 'glass cups and wine glasses',
         link: 'https://www.jumia.com.ng/catalog/?q=Glass+cups+and+wine+glasses',
         amount: '19000',
         category: 'k'
-
+        
     },
     {
         title: 'Cutlery set',
         link: 'https://www.jumia.com.ng/catalog/?q=Cutlery+set',
         amount: '29000',
         category: 'k'
-
+        
     },
     {
         title: 'Electric oven',
         link: 'https://www.jumia.com.ng/catalog/?q=Electric+oven',
         amount: '65000',
         category: 'k'
-
+        
     },
     {
         title: 'pressure pot',
@@ -120,119 +60,142 @@ const supportData = [
         link: 'https://www.jumia.com.ng/catalog/?q=Ramekins',
         amount: '46000',
         category: 'k'
-
+        
     },
     {
         title: 'Coffee machine',
         link: 'https://www.jumia.com.ng/catalog/?q=Coffee+machine',
         amount: '69990',
         category: 'k'
-
+        
     },
     {
-        title: 'food staorage set',
-        link: 'https://www.jumia.com.ng/catalog/?q=Food+storage+sets',
-        amount: '112000',
+        title: 'food storage set',
+        link: 'https://www.jumia.com.ng/generic-airtight-cereal-container-set-5in1-set-281788054.html',
+        amount: '35000',
+        category: 'k'
+        
+    },
+    {
+        title: 'food processor',
+        link: 'https://www.jumia.com.ng/8-in-1-prep-pro-quality-food-processor-and-chopper-salter-mpg2156579.html',
+        amount: '29990',
+        category: 'k'
+        
+    },
+    {
+        title: 'tablemats',
+        link: 'https://www.jumia.com.ng/oasis-creations-6-african-print-dining-tablemats-6-napkins-and-1-tablecloth-204752065.html',
+        amount: '30000',
         category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'waffle maker',
+        link: 'https://www.jumia.com.ng/catalog/?q=Waffle+maker',
+        amount: '25000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'Non-stick kitchen-spoon-set',
+        link: 'https://www.jumia.com.ng/generic-12pcs-silicon-non-stick-cooking-spoon-set-132948992.html',
+        amount: '25000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'knife set',
+        link: 'https://www.jumia.com.ng/catalog/?q=Knife+set',
+        amount: '14000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'food processor',
+        link: 'https://buchymixafrica.com/product-category/food-processor/',
+        amount: '165000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'juice extractor',
+        link: 'https://www.jumia.com.ng/catalog/?q=Fruits+juicer%2Fextractor',
+        amount: '24000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'sandwich maker',
+        link: 'https://www.jumia.com.ng/catalog/?q=Sandwich+maker',
+        amount: '37000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'Kitchen runner',
+        link: 'https://www.jumia.com.ng/catalog/?q=Kitchen+runner',
+        amount: '14900',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: '3 layer plates rack',
+        link: 'https://www.instagram.com/p/C9miXhROK0c/?igsh=aDJ4dXViZTlmZnd3 ',
+        amount: '35000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'center rug',
+        link: 'https://www.jumia.com.ng/catalog/?q=Centre+rug',
+        amount: '19000',
+        category: 'k'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'Bedsheets and Duvet sets (white)',
+        link: 'https://www.jumia.com.ng/catalog/?q=Bedsheets+and+Duvet+sets+%28white%29',
+        amount: '22000',
+        category: 'b'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'diffuser',
+        link: 'https://www.jumia.com.ng/catalog/?q=Diffuser',
+        amount: '13000',
+        category: 'b'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
+        title: 'decorative piece',
+        link: 'https://www.jumia.com.ng/catalog/?q=Decorative+pieces',
+        amount: '27000',
+        category: 'b'
 
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
-
+        title: 'bedside lamp',
+        link: 'https://www.jumia.com.ng/catalog/?q=Bedside+lamp',
+        amount: '23500',
+        category: 'b'
     },
     {
-        title: '',
-        link: '',
-        amount: '',
-        category: ''
-
+        title: '6-piece bathroom set',
+        link: 'https://www.jumia.com.ng/generic-6-pieces-bathroom-accessories-set-343532048.html',
+        amount: '29000',
+        category: 'b'
     },
+    {
+        title: 'laundry basket',
+        link: 'https://www.jumia.com.ng/wenko-bahari-laundry-basket-with-bamboo-frame-foldable-50-liters-351573961.html',
+        amount: '30000',
+        category: 'b'
+    },
+    {
+        title: 'rechargeable fan',
+        link: 'https://www.jumia.com.ng/rechargeable-standing-fan-remote-and-usbsolar-panel-port-lontor-mpg3632931.html',
+        amount: '97000',
+        category: 'b'
+    }
 ]
->>>>>>> Stashed changes
