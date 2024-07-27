@@ -16,7 +16,11 @@ const supportFiles = supportData.map((data,index) => (
         </Link>
         </button>
 
-      <button className="capitalize bg-slate-950 text-white hover:bg-slate-800 rounded-md m-2 py-2 px-2 ">send cash gift</button>
+      <button className="capitalize bg-slate-950 text-white hover:bg-slate-800 rounded-md m-2 py-2 px-2 ">
+      <Link href={`/support-us/cash-gift/${data.title.split(' ').join('-')}`} target="_blank">
+        send cash gift
+        </Link>
+        </button>
 
   </section>
 ))
