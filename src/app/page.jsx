@@ -4,6 +4,7 @@ import HomePage from "./components/HomePage";
 import SlideOne from "./components/SlideOne";
 import SlideTwo from "./components/SlideTwo";
 import StoryPage from "./our-story/page";
+import Wishes from "./components/Wishes";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <SlideOne />
       <SlideTwo />
       <StoryPage />
+      <Wishes />
       
     </main>
   );

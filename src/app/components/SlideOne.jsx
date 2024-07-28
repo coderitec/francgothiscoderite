@@ -2,6 +2,7 @@
 import React from 'react'
 import ImageFiller from 'react-image-filler'
 import { IoMdHeart } from "react-icons/io";
+import Image from 'next/image';
 
 
 export default function SlideOne() {
@@ -21,9 +22,9 @@ export default function SlideOne() {
             <h1 className='text-3xl font-extrabold py-2 text-transparent bg-gradient-to-b from-yellow-500 to-blue-600 bg-clip-text'>Nassy Bello</h1>
             <p className='font-serif text-[gray]'>Joining lives with my beloved is the most precious gift I could ever receive. I consider myself incredibly lucky to share this journey with such a wonderful partner. My hope is that our love and partnership bring endless joy, harmony, and prosperity to our lives</p>
           </div>
-          <div className='px-3'>
+          <div className='pl-3'>
             {/* placeholder image */}
-            <ImageFiller width={1000} height={1000} background='#0000ff' className='rounded-full'/>   
+            <Image className='rounded-t-full rounded-bl-[1150rem]' src='/her.jpg' width={900} height={900} alt='Francis Enemuo' title='Francis Enemuo' />   
           </div>
         </div>
 
@@ -32,9 +33,9 @@ export default function SlideOne() {
         </div>
 
         <div className='w-1/2 flex'>
-          <div className='px-3'>
+          <div className='pr-3'>
             {/* placeholder image */}
-            <ImageFiller width={1200} height={1200} background='#0000ff' className='rounded-full'/>   
+            <Image className='rounded-t-full rounded-br-[1150rem]' src='/him.jpg' width={1025} height={1025} alt='Francis Enemuo' title='Francis Enemuo' />   
           </div>
           <div className='max-w-[70%] space-y-5'>
             <h1 className='text-3xl font-extrabold text-transparent bg-gradient-to-b from-yellow-500 to-blue-600 bg-clip-text'>Francis Enemuo</h1>
