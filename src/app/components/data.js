@@ -202,14 +202,14 @@ export const supportData = [
 
 export const wishesData =[
   {
-    name: "Sample",
+    name: "Maryam",
     wish: "I'm so proud of the kind, compassionate, and strong woman you are. It's no wonder that you met an equally amazing soul in Franc and I know you two will create a beautiful life filled with joy, love, and happiness. As you embark on this new chapter with the love of your life, I wish you a lifetime of happiness, laughter, and adventure together. May your bond continue to grow stronger with each passing day, and may your love be the foundation on which you build a beautiful life together.",
-    image: ""
+    image: "/Maryam.jpg"
   },
   {
-    name: "Sample",
+    name: "Matty",
     wish: "I am really excited to have this opportunity to say something good about you my brother, Franc. There is no better way to describe you than to say that you are an absolute good person. I grew up learning a lot from you including the virtues of goodness and kindness. I have always told people about how nice of a person you are, happy it will be in a permanent form this time. I wish you and your lovely wifey all the best in this your journey of love and companionship. Congratulations guys.",
-    image: ""
+    image: "/Matty.jpg"
   },
   {
     name: "Olufunke and Peter",
@@ -217,8 +217,8 @@ export const wishesData =[
     image: "/OluPeter.jpg"
   },
   {
-    name: "Sample",
+    name: "Rosemary",
     wish: "Dearest Nassy & Francis Exceptionally amazing as individuals, but perfect as a pair. You bring out the best in each other and I am charmed by your love for each other. Your love story would live rent free in my heart forever.",
-    image: ""
+    image: "/Rosemary.jpg"
   }
 ]

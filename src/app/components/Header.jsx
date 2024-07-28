@@ -2,6 +2,7 @@
 import Link from 'next/link'
 import React, { useState } from 'react'
 import { IoClose, IoMenu } from "react-icons/io5";
+import MobileNav from './MobileNav';
 
 export default function Header() {
     const [hamburger, setHamburger] = useState(false)
@@ -9,8 +10,9 @@ export default function Header() {
     function switchHamburger() {
         setHamburger(!hamburger)
     }
+
   return (
-    <div className='flex items-center justify-between py-12 px-24 text-white'>
+    <div className='relative flex items-center justify-between py-12 px-24 text-white'>
         <h1 className='text-4xl font-bold'>Nassy & Franc</h1>
 
         <nav className='hidden lg:flex items-center justify-between space-x-5 font-semibold font-sans'>
@@ -47,6 +49,14 @@ export default function Header() {
             <IoClose className={`${!hamburger ? 'hidden' : "text-3xl" }`}/>
 
         </div>
+
+        {
+            hamburger && 
+            <div className='absolute top-[80%] right-[15%]'>
+
+                <MobileNav />
+            </div>
+        }
     </div>
   )
 }
