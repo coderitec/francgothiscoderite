@@ -12,8 +12,8 @@ export default function Header() {
     }
 
   return (
-    <div className='relative flex items-center justify-between py-12 px-24 text-white'>
-        <h1 className='text-4xl font-bold'>Nassy & Franc</h1>
+    <div className='relative flex items-center justify-between py-5 sm:py-12 px-5 sm:px-24 text-white'>
+        <h1 className='text-2xl sm:text-4xl font-bold'>Nassy & Franc</h1>
 
         <nav className='hidden lg:flex items-center justify-between space-x-5 font-semibold font-sans'>
             <Link href='/'>
