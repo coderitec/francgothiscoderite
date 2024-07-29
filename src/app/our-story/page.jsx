@@ -26,7 +26,7 @@ export default function StoryPage() {
 
 <h2>The Blossoming Connection</h2>
 <p>
-In the weeks that followed, Franc and Nassy&apos;s paths continued to cross at various MyLamp events. Each encounter deepened their connection. They discovered shared interests in their formation as young Catholics and a mutual love for old school jazz music. Franc was especially drawn to Nassy&apos;s insightful opinions during their chats and events, finding her perspective refreshing and thought-provoking. By April, they were spending time together outside of MyLamp, exploring the city&apos;s hidden gems and attending jazz concerts.
+In the weeks that followed, Franc and Nassy&apos;s paths continued to cross at various MyLamp events. Each encounter deepened their connection. They discovered shared interests in their formation as young Catholics and a mutual love for old school music. Franc was especially drawn to Nassy&apos;s insightful opinions during their chats and events, finding her perspective refreshing and thought-provoking. By May, they were spending time together outside of MyLamp, exploring the city&apos;s hidden gems and going for cinemas.
 </p>
 
 <p>
