@@ -13,7 +13,7 @@ export default function SlideTwo() {
                     <p className='text-6xl font-bold text-white'>Wedding Events</p>
                 </div>
 
-                <div className='grid grid-cols-2 gap-32 px-44 text-white font-sans text-center'>
+                <div className='grid md:grid-cols-2 grid-cols-1 md:gap-32 md:px-44 px-4 text-white font-sans text-center'>
                     <div className='border-2 border-white rounded-md p-5'>
                         <div className='border-b-[1px] border-white mx-[10%] py-5'>
 
@@ -25,11 +25,11 @@ export default function SlideTwo() {
                         <div className='flex items-center justify-center space-x-8 pb-8'>
                             <div className='flex flex-col items-center justify-center space-y-2 tracking-wide'>
                                 <LuClock4 className='text-xl'/>
-                                <p>10:00 AM</p>
+                                <p><time datetime="11:00:00">11:00 AM</time></p>
                             </div>
                             <div className='flex flex-col items-center justify-center space-y-2 tracking-wide'>
                                 <LuCalendar className='text-xl'/>
-                                <p>October 23rd, 2024</p>
+                                <p><time datetime="2024-10-24">October 24th, 2024</time></p>
                             </div>
                         </div>
                     </div>
