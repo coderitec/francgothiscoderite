@@ -2,17 +2,11 @@
 
 .story section h2{
    border-block-end: 4px solid orange;
-   font-size: 24px;
-   line-height: 2;
    margin-top: 20px;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .story section p{
-  
-   font-size: 24px;
-   line-height: 2;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-family: "Edu AU VIC WA NT Hand", cursive;
 
 }

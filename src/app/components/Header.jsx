@@ -21,7 +21,7 @@ export default function Header() {
                     <li>Matrimony</li>
                 </ul>
             </Link>
-            <Link href='/'>
+            <Link href='/our-story'>
                 <ul>
                     <li>Our Story</li>
                 </ul>
