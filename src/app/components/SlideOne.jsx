@@ -13,18 +13,18 @@ export default function SlideOne() {
         <h1 className='text-4xl sm:text-6xl text-yellow-300 font-bold'>We are honored to have you!</h1>
         <p className='text-[gray] font-serif'>join us for the celebration of our Holy Matrimony on</p>
         <p className='font-serif'>October 23rd, 2024</p>
-        <p className='font-serif'>at St. Michael Catholic Church, Lafiaji, Lagos Island</p>
+        <p className='font-serif'>at St. Michael Catholic Church, Lafiaji, Lagos Island.</p>
       </div>
 
       <div className='relative px-10 lg:px-32 flex sm:flex-row flex-col items-start justify-between overflow-x-hidden gap-4 sm:gap-0'>
         <div className='sm:w-1/2 text-center sm:text-right flex flex-col-reverse sm:flex-row'>
           <div className='sm:max-w-[70%] space-y-5'>
             <h1 className='text-3xl font-extrabold py-2 text-transparent bg-gradient-to-b from-yellow-500 to-blue-600 bg-clip-text'>Nassy Bello</h1>
-            <p className='font-serif text-[gray]'>Joining lives with my beloved is the most precious gift I could ever receive. I consider myself incredibly lucky to share this journey with such a wonderful partner. My hope is that our love and partnership bring endless joy, harmony, and prosperity to our lives</p>
+            <p className='font-serif text-[gray]'>Joining lives with you, Franc, is the greatest blessing I could have ever imagined. I feel proud to walk this path with you. My hope is that our love will bring us endless joy, unwavering support, and a future filled with prosperity.</p>
           </div>
           <div className='sm:pl-3'>
             {/* placeholder image */}
-            <Image className='rounded-t-xl rounded-bl-xl sm:rounded-t-full sm:rounded-bl-[1150rem]' src='/her.jpg' width={900} height={900} alt='Francis Enemuo' title='Francis Enemuo' />   
+            <Image className='rounded-t-xl rounded-bl-xl sm:rounded-t-full sm:rounded-bl-[1150rem]' src='/her.jpg' width={1025} height={1025} alt='Nassy Bello' title='Nassy Bello' />   
           </div>
         </div>
 
@@ -39,7 +39,7 @@ export default function SlideOne() {
           </div>
           <div className='sm:max-w-[70%] space-y-5'>
             <h1 className='text-3xl font-extrabold text-transparent bg-gradient-to-b from-yellow-500 to-blue-600 bg-clip-text py-2'>Francis Enemuo</h1>
-            <p className='font-serif text-[gray]'>I used to hear that when you find &apos;the one,&apos; you&apos;ll just know. It sounded like a myth, a fleeting dream. But now, I&apos;m a believer. You are the sunshine that brightens every day, and I&apos;m so grateful to have you by my side. Your name, Eseoghene, means &apos;gift from God,&apos; and that&apos;s exactly what you are - a precious gift.</p>
+            <p className='font-serif text-[gray]'>Uniting our lives in holy matrimony, Nassy, is the most cherished gift I could receive. I am deeply grateful to have you as my bride. My hope is that our love will fill our lives with boundless happiness, harmony, joy, and lasting success.</p>
           </div>
         </div>
       </div>
