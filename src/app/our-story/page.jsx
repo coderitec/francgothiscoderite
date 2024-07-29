@@ -10,7 +10,7 @@ export default function StoryPage() {
   return (
   <div className={`bg-[whitesmoke]/50 p-16 md:h-4/5 m-auto w-5/6 ${styles.story} text-xl leading-8`}>
       <div className=''>
-        <h1 className='text-6xl font-bold text-orange-300'>Nassy and Franc: A Story of Love</h1>
+        <h1 className='md:text-6xl text-2xl font-bold text-orange-300'>Nassy and Franc: A Story of Love</h1>
     <section>
       <h2>A Chance Meeting</h2>
       <p>
