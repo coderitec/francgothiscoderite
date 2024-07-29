@@ -11,7 +11,7 @@ import Image from 'next/image';
 
 export default function Wishes() {
     return (
-        <div className='min-h-[100vh] bg-[whitesmoke]'>
+        <div className='min-h-[80vh] bg-[whitesmoke]'>
             <h1 className='text-6xl font-bold text-center py-10 text-[#FFD700]'>Best Wishes</h1>
 
             <Swiper
