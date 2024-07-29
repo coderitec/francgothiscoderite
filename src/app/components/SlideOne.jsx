@@ -16,11 +16,11 @@ export default function SlideOne() {
         <p className='font-serif'>at St. Michael Catholic Church, Lafiaji, Lagos Island.</p>
       </div>
 
-      <div className='relative px-10 lg:px-32 flex sm:flex-row flex-col items-start justify-between overflow-x-hidden gap-4 sm:gap-0'>
+      <div className='relative px-10 lg:px-32 flex sm:flex-row flex-col-reverse items-start justify-between overflow-x-hidden gap-4 sm:gap-0'>
         <div className='sm:w-1/2 text-center sm:text-right flex flex-col-reverse sm:flex-row'>
           <div className='sm:max-w-[70%] space-y-5'>
             <h1 className='text-3xl font-extrabold py-2 text-transparent bg-gradient-to-b from-yellow-500 to-blue-600 bg-clip-text'>Nassy Bello</h1>
-            <p className='font-serif text-[gray]'>Joining lives with you, Franc, is the greatest blessing I could have ever imagined. I feel proud to walk this path with you. My hope is that our love will bring us endless joy, unwavering support, and a future filled with prosperity.</p>
+            <p className='font-serif text-[gray]'>In hindsight, I am filled with gratitude for the days I implored Our Lady Mother of Fairest Love to guide me to a soul who loves God with all his heart. You are the divine response to my heartfelt pleas. Joining our lives, my love, is a blessing that surpasses my wildest dreams. I am proud to walk hand in hand with you, and I pray that our love will be a sanctuary of joy, a beacon of faith, a fortress of support, and a gateway to a bright and prosperous future.</p>
           </div>
           <div className='sm:pl-3'>
             {/* placeholder image */}
@@ -39,7 +39,7 @@ export default function SlideOne() {
           </div>
           <div className='sm:max-w-[70%] space-y-5'>
             <h1 className='text-3xl font-extrabold text-transparent bg-gradient-to-b from-yellow-500 to-blue-600 bg-clip-text py-2'>Francis Enemuo</h1>
-            <p className='font-serif text-[gray]'>Uniting our lives in holy matrimony, Nassy, is the most cherished gift I could receive. I am deeply grateful to have you as my bride. My hope is that our love will fill our lives with boundless happiness, harmony, joy, and lasting success.</p>
+            <p className='font-serif text-[gray]'>The woman of my dreams, now a radiant reality! You are the living embodiment of the Proverbs 31 woman, bringing balance and beauty to my life. As we unite in holy matrimony, my cherished bride, I am filled with gratitude and awe. You are the missing piece that makes me whole, and I am forever thankful to call you mine. May our love be a boundless ocean of joy, a symphony of harmony, and a garden of lasting success, flourishing with each passing day. Cheers to forever Asa&apos;m.</p>
           </div>
         </div>
       </div>

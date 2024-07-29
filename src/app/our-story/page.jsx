@@ -35,19 +35,44 @@ export default function StoryPage() {
 
 <section>
 
+  <section>
+    <h2>The cold response</h2>
+    <p>
+    As the weeks went by, Franc&apos;s affection for Nassy only grew stronger. Despite her initial cold responses, he persisted in reaching out, seeking to deepen their connection. Franc confided in Rosemary, Nassy&apos;s friend and MyLamp&apos;s administrator, about his interest in Nassy. Though Rosemary expressed reservations about Nassy&apos;s openness to dating, Franc remained undeterred, turning to prayer for guidance.
+    </p>
+  </section>
+
+  <section>
+    <h2>The first date</h2>
+    <p>
+    After two declined dates and Rosemary&apos;s intervention, Nassy finally agreed to meet Franc. Their first date began with Mass at the Catholic Church of the Presentation GRA, followed by a moment of uncertainty; after the Mass, as Franc wasn&apos;t yet sure of what Nassy liked, he asked <q>so where would you like to go?</q> <q>Her response was shocking; you brought me out on a date without having a place in mind? I&apos;ll be gone in 5 minutes if you don&apos;t come up with something</q>
+
+    </p>
+
+    <p>
+    Although this response was unexpected, Franc in his usual calm demeanor quickly recovered, and the date went beautifully. Nassy let her guards down after this date and warmed up to Franc.
+
+    </p>
+  </section>
+
 <h2>The Blossoming Connection</h2>
 <p>
-In the weeks that followed, Franc and Nassy&apos;s paths continued to cross at various MyLamp events. Each encounter deepened their connection. They discovered shared interests in their formation as young Catholics and a mutual love for old school music. Franc was especially drawn to Nassy&apos;s insightful opinions during their chats and events, finding her perspective refreshing and thought-provoking. By May, they were spending time together outside of MyLamp, exploring the city&apos;s hidden gems and going for cinemas.
-</p>
+As their connection deepened, they discovered shared passions for their Catholic faith, Opus-Dei, and old-school music. Franc was captivated by Nassy&apos;s insightful perspectives, finding her thoughts refreshing and stimulating. By May, their bond had grown stronger, and they spent more time together outside of MyLamp, exploring hidden gems and enjoying several dates.
 
+</p>
 <p>
-By July, Franc and Nassy had officially started dating. Their relationship flourished as they supported each other&apos;s ambitions and celebrated their successes. Franc admired Nassy&apos;s creativity and resilience, while Nassy was inspired by Franc&apos;s intellect and unwavering dedication. They were a perfect balance, each complementing the other&apos;s strengths and helping to navigate their weaknesses. Their differing tastes in movies—Nassy&apos;s love for sci-fi and Franc&apos;s passion for Nollywood—added a fun dynamic to their relationship, leading to many playful debates and shared movie nights.
+In July, Franc and Nassy officially started dating, and their relationship flourished. They supported each other&apos;s ambitions, celebrated their successes, and balanced each other&apos;s strengths and weaknesses. Franc admired Nassy&apos;s creativity and resilience, while Nassy was inspired by Franc&apos;s simplicity, intellect, and dedication.
+
+</p>
+<p>
+Their differing tastes in movies—Nassy&apos;s love for sci-fi and Franc&apos;s passion for Nollywood—added a fun dynamic to their relationship, leading to many playful debates and shared movie dates. As they navigated their differences, their love and appreciation for each other continued to grow.
 </p>
 </section>
 
 <section>
 
 <h2>Trials and Triumphs</h2>
+
 <p>
 Like any couple, Franc and Nassy faced their share of struggles. The pressures of demanding careers sometimes led to misunderstandings and conflicts. Franc&apos;s unpredictable schedule often clashed with Nassy&apos;s well-planned, detailed approach. Nassy would meticulously plan their weekends, only for Franc to discover last-minute work obligations that disrupted their plans. They had to learn the art of communication, understanding, and compromise.
 </p>
@@ -60,19 +85,27 @@ They learned to lean on each other, realizing that their relationship was a sour
 
 <h2>A Bright Future</h2>
 <p>
-By the end of 2023, Franc and Nassy had weathered several storms and emerged stronger than ever. They had grown both individually and as a couple, learning to appreciate each other&apos;s unique qualities and quirks. Their love had deepened into a profound partnership built on trust, respect, and unwavering support.
+By the end of 2023, Franc and Nassy had weathered several storms and emerged stronger than ever. They had grown both individually and as a couple, learning to appreciate each other&apos;s unique qualities and quirks. Their love had deepened into a profound partnership built on faith, trust, respect, and unwavering support.
 </p>
+
 <p>
   
-In December 2023, on Nassy&apos;s birthday, Franc planned a special surprise. They had dinner at Mood, a cozy place overlooking the city. After enjoying a delicious meal, the waiter brought out a beautifully crafted cheesecake. Nassy&apos;s eyes widened with delight, but as she looked closer, she saw the words <q>Will you marry me?</q> elegantly inscribed on the dessert. Franc, with a nervous but hopeful smile, got down on one knee and presented a ring. With tears of joy in her eyes, Nassy said yes. They began planning their future together, dreaming of a life filled with love, adventure, and shared dreams.
+In December 2023, on Nassy&apos;s birthday, Franc planned a special surprise. They had dinner at Mood, a cozy place overlooking the city. After enjoying a delicious meal, the waiter brought out a beautifully crafted cheesecake; her favourite. Nassy&apos;s eyes widened with delight, but as she looked closer, she saw the words Will you marry me? elegantly inscribed on the dessert. Franc, with a nervous but hopeful smile, got down on one knee and presented a ring. Nassy said yes. In her words <q>this is my most heartfelt and profound yes</q>
 </p>
+<p>
+They began planning their future together, dreaming of a life filled with love, adventure, and shared dreams.
+</p>
+
 </section>
 
 <section>
 
 <h2>The Wedding</h2>
 <p>
-As they prepare to get married in October 2024, Franc and Nassy look back on their journey with gratitude. From their chance meeting at Novare Mall to the trials they faced and the triumphs they celebrated, their love story is a testament to the power of connection and resilience. They are ready to embark on this new chapter together, knowing that their love will continue to grow and evolve, bringing them closer with each passing day.
+As they prepare to get married in October 2024, Franc and Nassy look back on their journey with gratitude. From their chance meeting at Novare Mall to the trials they faced and the triumphs they celebrated, their love story is a testament to the power of prayer, connection and resilience. They are ready to embark on this new chapter together, knowing that their love will continue to grow and evolve, bringing them closer with each passing day.
+</p>
+<p>
+On a radiant October morning, surrounded by family and friends, Franc and Nassy exchanged vows in a beautiful ceremony. Their eyes sparkled with joy and anticipation as they promised to support and cherish each other for the rest of their lives, under the protection of St. Michael the Arch Angel. The journey that began with a chance meeting had blossomed into a lifelong commitment, a love story that would inspire those around them
 </p>
 </section>
 
@@ -84,7 +117,7 @@ On a sunny October afternoon, surrounded by family and friends, Franc and Nassy 
 </p>
 
 <p>
-As they danced under the stars that night, Franc and Nassy knew that they had found something truly special. Their love story was just beginning, and they were excited to write the next chapters together, hand in hand, forever united by the love that had brought them together and would sustain them through whatever the future held.
+As they danced, Franc and Nassy knew that they had found something truly special. Their love story was just beginning, and they were excited to write the next chapters together, hand in hand, forever united by the love and faith that had brought them together and would sustain them through whatever the future held.
 </p>
 </section>
       </div>
