@@ -6,7 +6,7 @@
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.story section p{
+.story section p, .story h1{
    font-family: "Edu AU VIC WA NT Hand", cursive;
 
 }
