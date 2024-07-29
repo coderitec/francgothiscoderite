@@ -6,10 +6,15 @@ import SlideTwo from "./components/SlideTwo";
 import Wishes from "./components/Wishes";
 import ShortStory from "./components/ShortStory";
 
+export const metadata = {
+  title: "Nassy & Franc",
+  description: "A Story of Love",
+};
+
 export default function Home() {
   return (
     <main>
-      <Header />
+      {/* <Header /> */}
       <HomePage />
       <SlideOne />
       <SlideTwo />
