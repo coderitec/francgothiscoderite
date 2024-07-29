@@ -36,14 +36,14 @@ export default function StoryPage() {
 <section>
 
   <section>
-    <h2>The cold response</h2>
+    <h2>The Cold Response</h2>
     <p>
     As the weeks went by, Franc&apos;s affection for Nassy only grew stronger. Despite her initial cold responses, he persisted in reaching out, seeking to deepen their connection. Franc confided in Rosemary, Nassy&apos;s friend and MyLamp&apos;s administrator, about his interest in Nassy. Though Rosemary expressed reservations about Nassy&apos;s openness to dating, Franc remained undeterred, turning to prayer for guidance.
     </p>
   </section>
 
   <section>
-    <h2>The first date</h2>
+    <h2>The First Date</h2>
     <p>
     After two declined dates and Rosemary&apos;s intervention, Nassy finally agreed to meet Franc. Their first date began with Mass at the Catholic Church of the Presentation GRA, followed by a moment of uncertainty; after the Mass, as Franc wasn&apos;t yet sure of what Nassy liked, he asked <q>so where would you like to go?</q> <q>Her response was shocking; you brought me out on a date without having a place in mind? I&apos;ll be gone in 5 minutes if you don&apos;t come up with something</q>
 
