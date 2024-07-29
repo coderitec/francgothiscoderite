@@ -31,14 +31,14 @@ export default function Header() {
                     <li>Registry</li>
                 </ul>
             </Link>
-            <Link href='/'>
-                <ul>
-                    <li>Traditional</li>
-                </ul>
-            </Link>
             <Link href='/support-us'>
                 <ul>
                     <li>Support Us</li>
+                </ul>
+            </Link>
+            <Link href='/prayer'>
+                <ul>
+                    <li>Pray with us</li>
                 </ul>
             </Link>
         

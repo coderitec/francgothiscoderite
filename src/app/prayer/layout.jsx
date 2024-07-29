@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TraditionalLayout({children}) {
+export default function PrayerLayout({children}) {
   return (
     <div>{children}</div>
   )

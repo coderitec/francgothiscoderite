@@ -14,12 +14,23 @@ export default function StoryPage() {
     <section>
       <h2>A Chance Meeting</h2>
       <p>
-      It was a sunny February afternoon when Franc first laid eyes on Nassy at Novare Mall. They were both waiting to meet up with other members of MyLamp, an organization for young professionals, before heading to a get-together at Indigo VI. MyLamp was a vibrant group filled with ambitious individuals, each brimming with dreams and goals. Franc, a software engineer with a passion for solving complex problems, was there to expand his professional network. Nassy, a hospitality and management specialist known for her creativity and charm, had been a member of MyLamp for over a year and was helping to organize the event.
+      In 2022, Franc&apos;s attention was captivated by Nassy&apos;s insightful opinions during the conversations on MyLamp.
       </p>
       <p>
-        
-      As they waited, Franc found himself captivated by Nassy&apos;s insightful opinions during the conversations on MyLamp. Her eloquence and enthusiasm were magnetic, drawing people in effortlessly. Franc joined the circle, intrigued not just by the topic but by Nassy herself. They ended up talking the entire way to Indigo VI, discovering a connection that felt both exciting and comforting.
+      MyLamp, an organization for young professionals, is a vibrant group filled with ambitious individuals, each brimming with dreams and goals.
       </p>
+      <p>
+      Franc, a software engineer with a passion for solving complex problems, was there to expand his professional network. Nassy, a hospitality management specialist known for her creativity and charm, had been a member of MyLamp for over a year and was helping to organize the group.
+      </p>
+
+      <p>
+      Their first encounter took place on a sunny February afternoon at Novare Mall, where they both waited to meet up with fellow members before heading to Indigo VI for one of MyLamp&apos;s get togethers. Nassy&apos;s eloquence and enthusiasm effortlessly commanded attention, leaving Franc mesmerized. Despite their brief introduction, Franc found himself smitten.
+      </p>
+
+      <p>
+      During the journey to Indigo VI, Nassy&apos;s reserved nature sparked Franc&apos;s curiosity. He wondered why she remained quiet, her silence only fueling his admiration. Although their initial meeting lacked meaningful conversation, Franc&apos;s interest was piqued, and he became resolute in pursuing a connection with Nassy.
+      </p>
+
 </section>    
 
 <section>
