@@ -12,7 +12,7 @@ import Image from 'next/image';
 export default function Wishes() {
     return (
         <div className='min-h-[80vh] bg-[whitesmoke]'>
-            <h1 className='text-4xl sm:text-6xl font-bold text-center py-10 text-[#FFD700]'>Best Wishes</h1>
+            <h1 className='text-4xl sm:text-6xl font-bold text-center py-10 text-[orange]'>Best Wishes</h1>
 
             <Swiper
                 modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
