@@ -12,7 +12,7 @@ export default function SlideOne() {
 
         <h1 className='text-4xl sm:text-6xl text-yellow-300 font-bold'>We are honored to have you!</h1>
         <p className='text-[gray] font-serif'>join us for the celebration of our Holy Matrimony on</p>
-        <p className='font-serif'><time datetime="2024-10-24">October 24th, 2024</time></p>
+        <p className='font-serif'><time dateTime="2024-10-24">October 24th, 2024</time></p>
         <p className='font-serif'>at St. Michael Catholic Church, Lafiaji, Lagos Island.</p>
       </div>
 

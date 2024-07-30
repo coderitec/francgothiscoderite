@@ -6,6 +6,7 @@ import SlideTwo from "./components/SlideTwo";
 import Wishes from "./components/Wishes";
 import ShortStory from "./components/ShortStory";
 import GratitudeSlide from "./components/GratitudeSlide";
+import Footer from "./components/Footer";
 
 export const metadata = {
   title: "Nassy & Franc",
@@ -22,7 +23,7 @@ export default function Home() {
       <ShortStory />
       <Wishes />
       <GratitudeSlide />
-      
+      <Footer />
     </main>
   );
 }
