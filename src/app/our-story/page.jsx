@@ -45,7 +45,7 @@ export default function StoryPage() {
   <section>
     <h2>The First Date</h2>
     <p>
-    After two declined dates and Rosemary&apos;s intervention, Nassy finally agreed to meet Franc. Their first date began with Mass at the Catholic Church of the Presentation GRA, followed by a moment of uncertainty; after the Mass, as Franc wasn&apos;t yet sure of what Nassy liked, he asked <q>so where would you like to go?</q> <q>Her response was shocking; you brought me out on a date without having a place in mind? I&apos;ll be gone in 5 minutes if you don&apos;t come up with something</q>
+    After two declined dates and Rosemary&apos;s intervention, Nassy finally agreed to meet Franc. Their first date began with Mass at the Catholic Church of the Presentation GRA, followed by a moment of uncertainty; after the Mass, as Franc wasn&apos;t yet sure of what Nassy liked, he asked <q>so where would you like to go?</q> Her response was shocking; <q>you brought me out on a date without having a place in mind? I&apos;ll be gone in 5 minutes if you don&apos;t come up with something</q>
 
     </p>
 
