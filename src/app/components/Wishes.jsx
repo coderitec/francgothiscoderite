@@ -29,11 +29,10 @@ export default function Wishes() {
                 {wishesData.map((wish, index) => (
                     <div key={index} className='flex flex-col justify-center items-center gap-y-10'>
                         <SwiperSlide className='px-[20%] py-[1%]'>
-                            <div className='grid md:grid-cols-[1fr_3fr] grid-cols-1'>
-                                <div className='flex justify-center sm:justify-start items-center sm:items-start'>
-                                    <Image className='w-[80%] h-[80%] rounded-full border-y-8 border-orange-700' src={wish.image} width={500} height={500} alt={wish.name} title={wish.name}/>
-                                </div>
-
+                            <div className='flex md:flex-row flex-col items-center justify-center gap-3'>
+                        
+                                    <Image className='w-[80%] h-[80%] rounded-full border-y-8 border-orange-700' src={wish.image} width={'200'} height={'200'} alt={wish.name} title={wish.name}/>
+                            
                                 <div className=''>
                                     <p className='text-lg font-sans text-center'>&quot; {wish.wish} &quot;</p>
                                     <p className='font-sans py-4 text-center font-semibold'>- {wish.name}</p>
