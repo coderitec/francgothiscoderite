@@ -11,8 +11,8 @@ import Image from 'next/image';
 
 export default function Wishes() {
     return (
-        <div className='min-h-[100vh] bg-[whitesmoke]'>
-            <h1 className='text-6xl font-bold text-center py-10 text-[#FFD700]'>Best Wishes</h1>
+        <div className='min-h-[80vh] bg-[whitesmoke]'>
+            <h1 className='text-4xl sm:text-6xl font-bold text-center py-10 text-[orange]'>Best Wishes</h1>
 
             <Swiper
                 modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
@@ -30,7 +30,7 @@ export default function Wishes() {
                     <div key={index} className='flex flex-col justify-center items-center gap-y-10'>
                         <SwiperSlide className='px-[20%] py-[1%]'>
                             <div className='grid md:grid-cols-[1fr_3fr] grid-cols-1'>
-                                <div className=''>
+                                <div className='flex justify-center sm:justify-start items-center sm:items-start'>
                                     <Image className='w-[80%] h-[80%] rounded-full border-y-8 border-orange-700' src={wish.image} width={500} height={500} alt={wish.name} title={wish.name}/>
                                 </div>
 
