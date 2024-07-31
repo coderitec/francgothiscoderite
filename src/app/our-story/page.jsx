@@ -90,7 +90,7 @@ By the end of 2023, Franc and Nassy had weathered several storms and emerged str
 
 <p>
   
-In December 2023, on Nassy&apos;s birthday, Franc planned a special surprise. They had dinner at Mood, a cozy place overlooking the city. After enjoying a delicious meal, the waiter brought out a beautifully crafted cheesecake; her favourite. Nassy&apos;s eyes widened with delight, but as she looked closer, she saw the words Will you marry me? elegantly inscribed on the dessert. Franc, with a nervous but hopeful smile, got down on one knee and presented a ring. Nassy said yes. In her words <q>this is my most heartfelt and profound yes</q>
+In December 2023, on Nassy&apos;s birthday, Franc planned a special surprise. They had dinner at Mood, a cozy place overlooking the city. After enjoying a delicious meal, the waiter brought out a beautifully crafted cheesecake; her favourite. Nassy&apos;s eyes widened with delight, but as she looked closer, she saw the words <strong>Will you marry me?</strong> elegantly inscribed on the dessert. Franc, with a nervous but hopeful smile, got down on one knee and presented a ring. Nassy said yes. In her words <q>this is my most heartfelt and profound yes</q>
 </p>
 <p>
 They began planning their future together, dreaming of a life filled with love, adventure, and shared dreams.
@@ -105,21 +105,10 @@ They began planning their future together, dreaming of a life filled with love, 
 As they prepare to get married in October 2024, Franc and Nassy look back on their journey with gratitude. From their chance meeting at Novare Mall to the trials they faced and the triumphs they celebrated, their love story is a testament to the power of prayer, connection and resilience. They are ready to embark on this new chapter together, knowing that their love will continue to grow and evolve, bringing them closer with each passing day.
 </p>
 <p>
-On a radiant October morning, surrounded by family and friends, Franc and Nassy exchanged vows in a beautiful ceremony. Their eyes sparkled with joy and anticipation as they promised to support and cherish each other for the rest of their lives, under the protection of St. Michael the Arch Angel. The journey that began with a chance meeting had blossomed into a lifelong commitment, a love story that would inspire those around them
+On a radiant October morning, surrounded by family and friends, Franc and Nassy will exchange vows in a beautiful ceremony. Their eyes sparkled with joy and anticipation as they promised to support and cherish each other for the rest of their lives, under the protection of St. Michael the Arch Angel. The journey that began with a chance meeting had blossomed into a lifelong commitment, a love story that would inspire those around them
 </p>
 </section>
 
-<section>
-
-<h2>Epilogue: A Love That Lasts</h2>
-<p>
-On a sunny October afternoon, surrounded by family and friends, Franc and Nassy exchanged vows in a beautiful garden ceremony. Their eyes sparkled with joy and anticipation as they promised to support and cherish each other for the rest of their lives. The journey that began with a chance meeting had blossomed into a lifelong commitment, a love story that would inspire those around them.
-</p>
-
-<p>
-As they danced, Franc and Nassy knew that they had found something truly special. Their love story was just beginning, and they were excited to write the next chapters together, hand in hand, forever united by the love and faith that had brought them together and would sustain them through whatever the future held.
-</p>
-</section>
       </div>
 
   

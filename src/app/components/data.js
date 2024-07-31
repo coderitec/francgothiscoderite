@@ -217,6 +217,11 @@ export const wishesData =[
     image: "/OluPeterEdit.jpg"
   },
   {
+    name: "Benson",
+    wish: "To you Mr. Francis, my mentor, thank you for your unwavering support and unconditional kindness. Without you, I wouldn't have continued my journey to becoming a software developer. I pray God rewards you immensely and blesses your marriage with all the good things in life. Thank you for everything boss.",
+    image: "/ben.jpeg"
+  },
+  {
     name: "Rosemary",
     wish: "Dearest Nassy & Francis Exceptionally amazing as individuals, but perfect as a pair. You bring out the best in each other and I am charmed by your love for each other. Your love story would live rent free in my heart forever.",
     image: "/RosemaryEdit.jpg"

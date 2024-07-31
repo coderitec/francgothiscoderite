@@ -26,7 +26,7 @@ export default function MobileNav() {
             </Link>
             <Link href='/prayer'>
                 <ul>
-                    <li>Prayer with us</li>
+                    <li>Pray with us</li>
                 </ul>
             </Link>
         
