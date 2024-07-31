@@ -16,21 +16,21 @@ export default function Header() {
         <h1 className='text-2xl sm:text-4xl font-bold'><Link href={'/'}>Nassy & Franc</Link></h1>
 
         <nav className='hidden lg:flex items-center justify-between space-x-5 font-semibold font-sans'>
-            <Link href='/'>
+            {/* <Link href='/'>
                 <ul>
                     <li>Matrimony</li>
                 </ul>
-            </Link>
+            </Link> */}
             <Link href='/our-story'>
                 <ul>
                     <li>Our Story</li>
                 </ul>
             </Link>
-            <Link href='/'>
+            {/* <Link href='/'>
                 <ul>
                     <li>Registry</li>
                 </ul>
-            </Link>
+            </Link> */}
             <Link href='/support-us'>
                 <ul>
                     <li>Support Us</li>
