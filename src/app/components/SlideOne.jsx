@@ -8,12 +8,12 @@ import Image from 'next/image';
 export default function SlideOne() {
   return (
     <div className='flex flex-col items-center justify-between py-28 min-h-[110vh] bg-[whitesmoke] space-y-4 overflow-x-hidden'>
-      <div className='text-center space-y-3 overflow-x-hidden'>
+      <div className='text-center space-y-3 overflow-x-hidden px-8'>
 
         <h1 className='text-4xl sm:text-6xl text-[orange] font-bold'>We are honored to have you!</h1>
-        <p className='text-[gray] font-serif'>join us for the celebration of our Holy Matrimony on</p>
-        <p className='font-serif'><time dateTime="2024-10-24">October 24th, 2024</time></p>
-        <p className='font-serif'>at St. Michael Catholic Church, Lafiaji, Lagos Island.</p>
+        <p className='text-[gray] font-sans'>join us for the celebration of our Holy Matrimony on</p>
+        <p className='font-sans'><time dateTime="2024-10-24">October 24th, 2024</time></p>
+        <p className='font-sans'>at St. Michael Catholic Church, Lafiaji, Lagos Island.</p>
       </div>
 
       <div className='relative px-10 lg:px-32 flex sm:flex-row flex-col-reverse items-start justify-between overflow-x-hidden gap-4 sm:gap-0'>
