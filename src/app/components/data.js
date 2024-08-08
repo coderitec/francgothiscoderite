@@ -226,4 +226,10 @@ export const wishesData =[
     wish: "Dearest Nassy & Francis Exceptionally amazing as individuals, but perfect as a pair. You bring out the best in each other and I am charmed by your love for each other. Your love story would live rent free in my heart forever.",
     image: "/Rosemary.jpg"
   }
+  ,
+  {
+    name: "Biola",
+    wish: "Motomori my lovely sister from another mother, you are such a rare gem an angel to behold. Knowing you has really impacted my life positively, you are a goal getter! A zealous, dedicated, hard working a Virtuous Lady. As you step into this journey of matrimony may you be filled with wisdom, may the journey be sweet and God will grant both of you the grace to be together in peace forever. Amen. Francis is one of the luckiest men on earth!",
+    image: "/biola.jpg"
+  }
 ]
