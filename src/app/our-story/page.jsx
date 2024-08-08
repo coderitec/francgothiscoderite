@@ -24,7 +24,7 @@ export default function StoryPage() {
       </p>
 
       <p>
-      Their first encounter took place on a sunny February afternoon at Novare Mall, where they both waited to meet up with fellow members before heading to Indigo VI for one of MyLamp&apos;s get togethers. Nassy&apos;s eloquence and enthusiasm effortlessly commanded attention, leaving Franc mesmerized. Despite their brief introduction, Franc found himself smitten.
+      Their first encounter took place on a sunny February 2023 afternoon at Novare Mall, where they both waited to meet up with fellow members before heading to Indigo VI for one of MyLamp&apos;s get togethers. Nassy&apos;s eloquence and enthusiasm effortlessly commanded attention, leaving Franc mesmerized. Despite their brief introduction, Franc found himself smitten.
       </p>
 
       <p>
