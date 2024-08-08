@@ -8,9 +8,9 @@ import styles from './story.module.css'
 
 export default function StoryPage() {
   return (
-  <div className={`bg-[whitesmoke]/50 md:p-16 p-4 md:h-4/5 m-auto w-[90%] ${styles.story} text-xl leading-8 text-justify hyphens-auto`}>
+  <div className={`bg-[whitesmoke]/85 md:p-16 p-4 md:h-4/5 m-auto w-[90%] ${styles.story} text-xl leading-8 text-justify hyphens-auto`} style={{textShadow:'0 0 35px white'}}>
       <div className=''>
-        <h1 className='md:text-6xl text-2xl font-bold text-orange-700'>Nassy &amp; Franc: A Story of Love</h1>
+        <h1 className='md:text-6xl text-lg text-center py-4 font-bold text-orange-700'>Nassy &amp; Franc: A Story of Love</h1>
     <section>
       <h2>A Chance Meeting</h2>
       <p>
@@ -104,9 +104,9 @@ They began planning their future together, dreaming of a life filled with love, 
 <p>
 As they prepare to get married in October 2024, Franc and Nassy look back on their journey with gratitude. From their chance meeting at Novare Mall to the trials they faced and the triumphs they celebrated, their love story is a testament to the power of prayer, connection and resilience. They are ready to embark on this new chapter together, knowing that their love will continue to grow and evolve, bringing them closer with each passing day.
 </p>
-<p>
+{/* <p>
 On a radiant October morning, surrounded by family and friends, Franc and Nassy will exchange vows in a beautiful ceremony. Their eyes sparkled with joy and anticipation as they promised to support and cherish each other for the rest of their lives, under the protection of St. Michael the Arch Angel. The journey that began with a chance meeting had blossomed into a lifelong commitment, a love story that would inspire those around them
-</p>
+</p> */}
 </section>
 
       </div>
