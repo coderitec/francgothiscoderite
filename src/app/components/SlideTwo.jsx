@@ -44,7 +44,7 @@ export default function SlideTwo() {
                         <div className='flex items-center justify-center space-x-8 pb-8'>
                             <div className='flex flex-col items-center justify-center space-y-2 tracking-wide'>
                                 <LuClock4 className='text-xl'/>
-                                <p><time dateTime="11:00:00">9:00 AM</time></p>
+                                <p><time dateTime="11:00:00">11:00 AM</time></p>
                             </div>
                             <div className='flex flex-col items-center justify-center space-y-2 tracking-wide'>
                                 <LuCalendar className='text-xl'/>
