@@ -2,11 +2,11 @@ import React from 'react'
 
 export default function PrayerPage() {
   return (
-    <div className='bg-[url(/love.png),radial-gradient(orange,orange)] opacity-75 min-h-screen bg-cover bg-fixed'>
+    <div className='bg-[url(/love.png),radial-gradient(orange,orange)] min-h-screen bg-cover bg-fixed'>
 
       <section>
         <h2 className='flex items-center justify-center text-white font-sans md:text-4xl text-2xl bg-blue-800/95 md:h-[30vh] text-center md:p-16 p-4 '>Prayer to Mary, Mother of Fairest Love</h2>
-      <article className='text-center flex flex-col md:space-y-6 space-y-2 text-2xl font-serif md:p-16 p-4 md:bg-transparent bg-[orange] bg-opacity-80'>
+      <article className='text-center flex flex-col md:space-y-6 space-y-2 text-2xl font-serif md:p-16 p-4 md:bg-transparent'>
 
       <p>Mary, Mother of Fairest Love, you are the Mother of Jesus and our Mother. Intercede for us with your Son, as you did at the wedding at Cana. Pray for us, Fairest Mother, to strengthen and bless our families.</p>
 <p>Help those called to marriage to find their spouses and teach them to love with a pure and selfless love.</p>
