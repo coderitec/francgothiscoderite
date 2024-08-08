@@ -24,7 +24,7 @@ export default function SlideOne() {
           </div>
           <div className='sm:pl-3'>
             {/* placeholder image */}
-            <Image className='rounded-t-xl rounded-bl-xl sm:rounded-t-full sm:rounded-bl-[1150rem]' src='/her.jpg' width={1320} height={1320} alt='Nassy Bello' title='Nassy Bello' />   
+            <Image className='rounded-t-xl rounded-bl-xl sm:rounded-t-full sm:rounded-bl-[1150rem]' src='/her.png' width={1320} height={1320} alt='Nassy Bello' title='Nassy Bello' />   
           </div>
         </div>
 
