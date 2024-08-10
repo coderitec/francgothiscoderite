@@ -35,14 +35,14 @@ export const supportData = [
         
     },
     {
-        title: 'Cutlery set',
+        title: 'cutlery set',
         link: 'https://www.jumia.com.ng/catalog/?q=Cutlery+set',
         amount: '29000',
         category: 'k'
         
     },
     {
-        title: 'Electric oven',
+        title: 'electric oven',
         link: 'https://www.jumia.com.ng/catalog/?q=Electric+oven',
         amount: '65000',
         category: 'k'
@@ -56,14 +56,14 @@ export const supportData = [
 
     },
     {
-        title: 'Ramekins',
+        title: 'ramekins',
         link: 'https://www.jumia.com.ng/catalog/?q=Ramekins',
         amount: '46000',
         category: 'k'
         
     },
     {
-        title: 'Coffee machine',
+        title: 'coffee machine',
         link: 'https://www.jumia.com.ng/catalog/?q=Coffee+machine',
         amount: '69990',
         category: 'k'
@@ -98,7 +98,7 @@ export const supportData = [
 
     },
     {
-        title: 'Non-stick kitchen-spoon-set',
+        title: 'non-stick kitchen spoon-set',
         link: 'https://www.jumia.com.ng/generic-12pcs-silicon-non-stick-cooking-spoon-set-132948992.html',
         amount: '25000',
         category: 'k'
@@ -133,7 +133,7 @@ export const supportData = [
 
     },
     {
-        title: 'Kitchen runner',
+        title: 'kitchen runner',
         link: 'https://www.jumia.com.ng/catalog/?q=Kitchen+runner',
         amount: '14900',
         category: 'k'
@@ -154,7 +154,7 @@ export const supportData = [
 
     },
     {
-        title: 'Bedsheets and Duvet sets (white)',
+        title: 'bedsheets and duvet sets (white)',
         link: 'https://www.jumia.com.ng/catalog/?q=Bedsheets+and+Duvet+sets+%28white%29',
         amount: '22000',
         category: 'b'
