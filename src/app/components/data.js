@@ -98,7 +98,7 @@ export const supportData = [
 
     },
     {
-        title: 'non stick kitchen spoon set',
+        title: 'kitchen spoon set',
         link: 'https://www.jumia.com.ng/generic-12pcs-silicon-non-stick-cooking-spoon-set-132948992.html',
         amount: '25000',
         category: 'k'
