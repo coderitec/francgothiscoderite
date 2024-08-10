@@ -233,3 +233,36 @@ export const wishesData =[
     image: "/biola.jpg"
   }
 ]
+
+export const galleryData =[
+  {
+    title: "Pre-Wedding Photos",
+    link: "",
+    image: "/Maryam.jpg"
+  },
+  {
+    title: "Wedding Photos",
+    link: "",
+    image: "/Maryam.jpg"
+  },
+  {
+    title: "Church Photos",
+    link: "",
+    image: "/Maryam.jpg"
+  },
+  {
+    title: "Registry Photos",
+    link: "",
+    image: "/Maryam.jpg"
+  },
+  {
+    title: "Traditional Mariage Photos",
+    link: "",
+    image: "/Maryam.jpg"
+  },
+  {
+    title: "Wedding Mass Photos",
+    link: "",
+    image: "/Maryam.jpg"
+  }
+]
