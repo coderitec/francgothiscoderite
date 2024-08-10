@@ -98,7 +98,7 @@ export const supportData = [
 
     },
     {
-        title: 'non-stick kitchen spoon-set',
+        title: 'non stick kitchen spoon set',
         link: 'https://www.jumia.com.ng/generic-12pcs-silicon-non-stick-cooking-spoon-set-132948992.html',
         amount: '25000',
         category: 'k'
@@ -154,7 +154,7 @@ export const supportData = [
 
     },
     {
-        title: 'bedsheets and duvet sets (white)',
+        title: 'bedsheets and duvet sets white',
         link: 'https://www.jumia.com.ng/catalog/?q=Bedsheets+and+Duvet+sets+%28white%29',
         amount: '22000',
         category: 'b'
