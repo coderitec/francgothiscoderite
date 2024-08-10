@@ -28,7 +28,7 @@ export const supportData = [
         
     },
     {
-        title: 'glass cups and wine glasses',
+        title: 'glasses',
         link: 'https://www.jumia.com.ng/catalog/?q=Glass+cups+and+wine+glasses',
         amount: '19000',
         category: 'k'
