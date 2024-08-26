@@ -237,32 +237,60 @@ export const wishesData =[
 export const galleryData =[
   {
     title: "Pre-Wedding Photos",
-    link: "",
-    image: "/Maryam.jpg"
+    link: "/pre-wedding",
+    image: "/gallery/1.jpg",
+    bgImage: "url(/gallery/1.jpg)"
   },
   {
     title: "Wedding Photos",
     link: "",
-    image: "/Maryam.jpg"
+    image: "/gallery/2.jpg",
+    bgImage: "url(/gallery/2.jpg)"
   },
   {
     title: "Church Photos",
     link: "",
-    image: "/Maryam.jpg"
+    image: "/gallery/3.jpg",
+    bgImage: "url(/gallery/3.jpg)"
   },
   {
     title: "Registry Photos",
     link: "",
-    image: "/Maryam.jpg"
+    image: "/gallery/4.jpg",
+    bgImage: "url(/gallery/4.jpg)"
   },
   {
     title: "Traditional Mariage Photos",
     link: "",
-    image: "/Maryam.jpg"
+    image: "/gallery/5.jpg",
+    bgImage: "url(/gallery/5.jpg)"
   },
   {
     title: "Wedding Mass Photos",
     link: "",
-    image: "/Maryam.jpg"
+    image: "/gallery/6.jpg",
+    bgImage: "url(/gallery/6.jpg)"
   }
+]
+
+export const imageData =[
+    "/gallery/1.jpg",
+    "/gallery/2.jpg",
+    "/gallery/3.jpg",
+    "/gallery/4.jpg",
+    "/gallery/5.jpg",
+    "/gallery/6.jpg",
+    "/gallery/7.jpg",
+    "/gallery/8.jpg",
+    "/gallery/9.jpg",
+    "/gallery/10.jpg",
+    "/gallery/11.jpg",
+    "/gallery/12.jpg",
+    "/gallery/13.jpg",
+    "/gallery/14.jpg",
+    "/gallery/15.jpg",
+    "/gallery/16.jpg",
+    "/gallery/17.jpg",
+    "/gallery/18.jpg",
+    "/gallery/19.jpg",
 ]
