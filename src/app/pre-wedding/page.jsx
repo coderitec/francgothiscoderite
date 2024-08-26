@@ -6,19 +6,19 @@ const Page = () => {
     return (
         <div>
             <div className='h-[85vh] backdrop-brightness-75 flex justify-center items-center'>
-                <h1 className='text-6xl font-bold text-white'>Pre-Wedding Photos</h1>
+                <h1 className='text-4xl sm:text-6xl font-bold text-white'>Pre-Wedding Photos</h1>
             </div>
 
-            <div className='bg-white min-h-[100vh] grid grid-cols-3 px-28 gap-4 py-14'>
+            <div className='bg-white min-h-[100vh] grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-6 sm:px-28 gap-4 py-14'>
                 {
                     imageData.map((item, index) => (
-                        <div key={index} className='w-[100%] h-[20%]'>
+                        <div key={index} className='w-[100%]'>
                             <Image
-                                className='object-cover rounded-lg w-full'
+                                className='rounded-lg w-full'
                                 src={item}
                                 width={400}
                                 height={100}
-                                alt={item.title}
+                                alt={item}
                             />
                         </div>
                     ))
