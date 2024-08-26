@@ -14,7 +14,7 @@ export default function GalleryPage() {
         <div className='grid xl:grid-cols-3 lg:grid-cols-2 grid-cols-1 gap-8 py-10'>
             {galleryData.map((item, index) => {
                 return (
-                    <Link href={item.link} key={index} className={`min-h-[50vh] md:min-w-[24vw] bg-cover bg-no-repeat rounded-md`} >
+                    <Link href={item.link} key={index} className={`min-h-[50vh] md:min-w-[24vw] bg-cover bg-no-repeat rounded-md`} style={{ backgroundImage: item.bgImage }}>
                         <div className='size-full flex flex-col justify-end hover:bg-transparent hover:backdrop-brightness-[.7] duration-300 rounded-md'>
                         <h1 className='font-sans p-8 text-white text-xl font-semibold'>{item.title}</h1>
                         </div>
