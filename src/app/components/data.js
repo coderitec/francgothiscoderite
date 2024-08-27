@@ -236,35 +236,27 @@ export const wishesData =[
 
 export const galleryData =[
   {
-    title: "Pre-Wedding Photos",
+    title: "Pre-Wedding ",
     link: "/pre-wedding",
     bgImage: "url(/gallery/1.jpg)"
   },
+  
   {
-    title: "Wedding Photos",
-    link: "",
-    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
-  },
-  {
-    title: "Church Photos",
-    link: "",
-    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
-  },
-  {
-    title: "Registry Photos",
-    link: "",
-    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
-  },
-  {
-    title: "Traditional Mariage Photos",
-    link: "",
-    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
-  },
-  {
-    title: "Wedding Mass Photos",
-    link: "",
-    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
-  }
+      title: "Registry",
+      link: "",
+      bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
+    },
+    {
+        title: "Traditional Marriage",
+        link: "",
+        bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
+    },
+    
+    {
+      title: "Wedding",
+      link: "",
+      bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
+    },
 ]
 
 export const imageData =[

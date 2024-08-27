@@ -24,8 +24,8 @@ export default function CashGift({params}) {
     <div className="rounded-md border-8 border-slate-950 p-8 font-mono my-4">
         <p className="flex md:flex-row flex-col justify-between space-x-6 py-4 text-2xl">
             <span className="bg-slate-950/75 text-slate-300 p-2">Send to Nassy:</span> 
-            <span  className="bg-slate-950/75 text-slate-300 p-2">6007175776</span>
-            <span className="bg-slate-950/75 text-slate-300 p-2">keystone Bank</span>
+            <span  className="bg-slate-950/75 text-slate-300 p-2">0253339628</span>
+            <span className="bg-slate-950/75 text-slate-300 p-2">GTB</span>
         </p>
         <p className="flex md:flex-row flex-col justify-between space-x-6 py-4 text-2xl">
             <span className="bg-slate-950/75 text-slate-300 p-2">Send to Franc:</span> 
