@@ -238,38 +238,32 @@ export const galleryData =[
   {
     title: "Pre-Wedding Photos",
     link: "/pre-wedding",
-    image: "/gallery/1.jpg",
     bgImage: "url(/gallery/1.jpg)"
   },
   {
     title: "Wedding Photos",
     link: "",
-    image: "/gallery/2.jpg",
-    bgImage: "url(/gallery/2.jpg)"
+    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
   },
   {
     title: "Church Photos",
     link: "",
-    image: "/gallery/3.jpg",
-    bgImage: "url(/gallery/3.jpg)"
+    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
   },
   {
     title: "Registry Photos",
     link: "",
-    image: "/gallery/4.jpg",
-    bgImage: "url(/gallery/4.jpg)"
+    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
   },
   {
     title: "Traditional Mariage Photos",
     link: "",
-    image: "/gallery/5.jpg",
-    bgImage: "url(/gallery/5.jpg)"
+    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
   },
   {
     title: "Wedding Mass Photos",
     link: "",
-    image: "/gallery/6.jpg",
-    bgImage: "url(/gallery/6.jpg)"
+    bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
   }
 ]
 
