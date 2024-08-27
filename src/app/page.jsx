@@ -19,7 +19,7 @@ export default function Home() {
       <SlideOne />
       <SlideTwo />
       <ShortStory />
-      {/* <GalleryPage /> */}
+      <GalleryPage />
       <Wishes />
       <GratitudeSlide />
       <Footer />
