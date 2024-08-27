@@ -1,6 +1,8 @@
 import React from 'react'
 import { imageData } from '../components/data'
 import Image from 'next/image'
+import GratitudeSlide from '../components/GratitudeSlide'
+import Footer from '../components/Footer'
 
 const Page = () => {
     return (
@@ -24,6 +26,10 @@ const Page = () => {
                     ))
                 }
             </div>
+
+            <GratitudeSlide />
+
+            <Footer />
 
         </div>
     )
