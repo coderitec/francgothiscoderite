@@ -1,3 +1,5 @@
+import ImageLists from "../components/ImageLists";
+
 export const metadata = {
     title: "Nassy & Franc",
     description: "A Story of Love | Pre-Wedding Photos",
@@ -5,7 +7,10 @@ export const metadata = {
   
   export default function PrayerLayout({children}) {
     return (
-      <div>{children}</div>
+      <div>
+        {children}
+        {/* <ImageLists/> */}
+        </div>
     )
   }
   
