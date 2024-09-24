@@ -39,23 +39,23 @@ export default function CountDown() {
   }, []);
 
   return (
-    <div className="absolute  bg-gray-300 min-w-full text-center">
-      <ul className='md:min-h-[50px] min-h-screen flex md:flex-row flex-col items-center justify-evenly font-bold md:text-2xl text-lg'>
+    <div className="absolute  bg-gray-300/20 min-w-full text-center">
+      <ul className='md:min-h-[50px] min-h-[200px] flex md:flex-row flex-col items-center justify-evenly font-bold md:text-2xl text-lg'>
         <li className='flex flex-col items-center'> 
           <span>{timeLeft.days}</span>
           <span>Days</span>
          </li>
-        <li className='flex flex-col items-center'> 
+        <li className='flex flex-col items-center mb-4'> 
           <span>{timeLeft.hours} </span>
           <span>Hours</span>
          
          </li>
-        <li className='flex flex-col items-center'> 
+        <li className='flex flex-col items-center mb-4'> 
           <span>{timeLeft.minutes} </span>
           <span>Minutes</span>
          
          </li>
-        <li className='flex flex-col items-center'> 
+        <li className='flex flex-col items-center mb-4'> 
           <span>{timeLeft.seconds} </span>
           <span>Seconds</span>
          </li>
