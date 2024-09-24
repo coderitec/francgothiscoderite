@@ -6,6 +6,7 @@ import ShortStory from "./components/ShortStory";
 import GratitudeSlide from "./components/GratitudeSlide";
 import Footer from "./components/Footer";
 import GalleryPage from "./components/GalleryPage";
+import CountDown from "./components/CountDown";
 
 export const metadata = {
   title: "Nassy & Franc",
@@ -15,6 +16,7 @@ export const metadata = {
 export default function Home() {
   return (
     <main>
+      <CountDown/>
       <HomePage />
       <SlideOne />
       <SlideTwo />
