@@ -40,9 +40,9 @@ export default function CountDown() {
 
   return (
     <div className="absolute h-screen  md:bg-[url(/gallery/us.jpg)] bg-[url(/gallery/mine.jpg)] bg-cover min-w-full text-center py-4">
-      <div className=' bg-gray-200/80 md:w-3/5 m-auto'>
-      <h2 className='pt-6 text-6xl'>we are almost there!</h2>
-      <ul className='flex md:flex-row flex-col md:items-center items-center pb-5  md:justify-evenly justify-start pl-4 font-bold md:text-2xl text-lg shadow-2xl rounded-md   md:h-[60vh] h-screen'>
+      <div className=' bg-gray-200/80 md:w-3/5 m-auto md:shadow-[0_0_30px] rounded-md '>
+      <h2 className='pt-6 text-6xl'>We are almost there!</h2>
+      <ul className='flex md:flex-row flex-col md:items-center items-center pb-5 gap-x-2 md:justify-evenly justify-start pl-4 font-bold md:text-2xl text-lg   md:h-[60vh] h-screen'>
         <li className='flex flex-col items-center mb-4 bg-slate-950/95 w-[200px] py-10 text-slate-100 text-3xl rounded-md'> 
           <span>{timeLeft.days}</span>
           <span className='text-lg text-slate-400 uppercase'>Days</span>

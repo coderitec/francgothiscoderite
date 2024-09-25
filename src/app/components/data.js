@@ -260,7 +260,7 @@ export const galleryData =[
 ]
 
 export const imageData =[
-    // "/gallery/8.jpg",
+    "/gallery/25.jpg",
     "/gallery/10.jpg",
     "/gallery/15.jpg",
     "/gallery/3.jpg",
