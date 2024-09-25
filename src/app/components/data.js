@@ -50,7 +50,7 @@ export const supportData = [
     },
     {
         title: 'pressure pot',
-        link: 'https://www.jumia.com.ng/catalog/?q=Pressure+pot',
+        link: 'https://www.instagram.com/reel/C_3gr6TucYW/?igsh=cDBhM2VwMGQ4cmxi',
         amount: '35000',
         category: 'k'
 
@@ -73,13 +73,6 @@ export const supportData = [
         title: 'food storage set',
         link: 'https://www.jumia.com.ng/generic-airtight-cereal-container-set-5in1-set-281788054.html',
         amount: '35000',
-        category: 'k'
-        
-    },
-    {
-        title: 'food processor',
-        link: 'https://www.jumia.com.ng/8-in-1-prep-pro-quality-food-processor-and-chopper-salter-mpg2156579.html',
-        amount: '29990',
         category: 'k'
         
     },
@@ -144,7 +137,13 @@ export const supportData = [
         link: 'https://www.instagram.com/p/C9miXhROK0c/?igsh=aDJ4dXViZTlmZnd3 ',
         amount: '35000',
         category: 'k'
-
+        
+    },
+    {
+        title: 'rechargeable fan',
+        link: 'https://www.jumia.com.ng/rechargeable-standing-fan-remote-and-usbsolar-panel-port-lontor-mpg3632931.html',
+        amount: '97000',
+        category: 'b'
     },
     {
         title: 'center rug',
@@ -155,7 +154,7 @@ export const supportData = [
     },
     {
         title: 'bedsheets and duvet sets white',
-        link: 'https://www.jumia.com.ng/catalog/?q=Bedsheets+and+Duvet+sets+%28white%29',
+        link: 'https://stuchbeddings.com/shop/luxury-beddings/egyptian-standard-100-cotton-plain-white-4-by-6-bedsheet-with-two-pillow-cases-and-duvet-cover-preorder-3-4-days/',
         amount: '22000',
         category: 'b'
 
@@ -192,12 +191,6 @@ export const supportData = [
         amount: '30000',
         category: 'b'
     },
-    {
-        title: 'rechargeable fan',
-        link: 'https://www.jumia.com.ng/rechargeable-standing-fan-remote-and-usbsolar-panel-port-lontor-mpg3632931.html',
-        amount: '97000',
-        category: 'b'
-    }
 ]
 
 export const wishesData =[

@@ -39,25 +39,25 @@ export default function CountDown() {
   }, []);
 
   return (
-    <div className="absolute  bg-gray-300/60 min-w-full text-center py-4">
-      <ul className='md:min-h-[50px] min-h-[200px] flex md:flex-row flex-col md:items-center items-start  md:justify-evenly justify-start pl-4 font-bold md:text-2xl text-lg'>
-        <li className='flex flex-col items-center'> 
+    <div className="fixed h-screen  bg-[url(/gallery/header.jpg)] bg-cover min-w-full text-center py-4">
+      <ul className='flex md:flex-row flex-col md:items-center items-center py-5  md:justify-evenly justify-start pl-4 font-bold md:text-2xl text-lg bg-blue-700/80 shadow-2xl rounded-md md:w-3/5 m-auto md:h-[70vh] h-screen'>
+        <li className='flex flex-col items-center mb-4 bg-slate-950 w-[200px] py-10 text-slate-100 text-3xl rounded-md'> 
           <span>{timeLeft.days}</span>
-          <span>Days</span>
+          <span className='text-lg text-slate-400 uppercase'>Days</span>
          </li>
-        <li className='flex flex-col items-center mb-4'> 
+        <li className='flex flex-col items-center mb-4 bg-slate-950 w-[200px] py-10 text-slate-100 text-3xl rounded-md'> 
           <span>{timeLeft.hours} </span>
-          <span>Hours</span>
+          <span className='text-lg text-slate-400 uppercase'>Hours</span>
          
          </li>
-        <li className='flex flex-col items-center mb-4'> 
+        <li className='flex flex-col items-center mb-4 bg-slate-950 w-[200px] py-10 text-slate-100 text-3xl rounded-md'> 
           <span>{timeLeft.minutes} </span>
-          <span>Minutes</span>
+          <span className='text-lg text-slate-400 uppercase'>Minutes</span>
          
          </li>
-        <li className='flex flex-col items-center mb-4'> 
+        <li className='flex flex-col items-center mb-4 bg-slate-950 w-[200px] py-10 text-slate-100 text-3xl rounded-md'> 
           <span>{timeLeft.seconds} </span>
-          <span>Seconds</span>
+          <span className='text-lg text-slate-400 uppercase'>Seconds</span>
          </li>
       </ul>
     </div>
