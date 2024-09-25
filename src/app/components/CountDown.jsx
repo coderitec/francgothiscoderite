@@ -39,8 +39,8 @@ export default function CountDown() {
   }, []);
 
   return (
-    <div className="absolute  bg-gray-300/20 min-w-full text-center">
-      <ul className='md:min-h-[50px] min-h-[200px] flex md:flex-row flex-col items-center justify-evenly font-bold md:text-2xl text-lg'>
+    <div className="absolute  bg-gray-300/60 min-w-full text-center">
+      <ul className='md:min-h-[50px] min-h-[200px] flex md:flex-row flex-col md:items-center items-start  md:justify-evenly justify-start pl-4 font-bold md:text-2xl text-lg'>
         <li className='flex flex-col items-center'> 
           <span>{timeLeft.days}</span>
           <span>Days</span>
