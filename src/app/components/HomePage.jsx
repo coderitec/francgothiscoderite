@@ -4,7 +4,7 @@ import React from 'react'
 export default function HomePage() {
   return (
     <div className='flex flex-col items-center justify-center h-[100vh] gap-y-3'>
-        <h1 className='text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold text-white mix-blend-difference'>Nassy & Franc</h1>
+        {/* <h1 className='text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-bold text-white mix-blend-difference'>Nassy & Franc</h1> */}
 
         <div className='flex md:flex-row flex-col  gap-4 items-center justify-center'>
 
