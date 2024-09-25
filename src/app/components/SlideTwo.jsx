@@ -9,7 +9,7 @@ export default function SlideTwo() {
 
                 <div className='flex flex-col items-center justify-center py-16 space-y-4'>
 
-                    <h1 className='font-sans font-bold uppercase text-[#f5f5f5da]'>Our special event</h1>
+                    {/* <h1 className='font-sans font-bold uppercase text-[#f5f5f5da]'>Our special event</h1> */}
                     <p className='text-6xl font-bold text-white'>Wedding Events</p>
                 </div>
 
