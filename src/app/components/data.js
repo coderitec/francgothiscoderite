@@ -8,8 +8,15 @@ export const supportData = [
     },
     {
         title: 'microwave',
-        link: 'https://www.jumia.com.ng/catalog/?q=microwave',
+        link: 'https://www.fouanistore.com/ng/en/product/hisense-h25moms7h-900w-25l-microwave-oven',
         amount: '59000',
+        category: 'k'
+
+    },
+    {
+        title: 'washing machine',
+        link: 'https://www.fouanistore.com/ng/en/product/hisense-wm8012s-wfpv-8kg-front-load-washing-machine',
+        amount: '300000',
         category: 'k'
 
     },
@@ -258,7 +265,7 @@ export const imageData =[
     "/gallery/15.jpg",
     "/gallery/3.jpg",
     "/gallery/14.jpg",
-    // "/gallery/2.jpg",
+    "/gallery/mine.jpg",
     "/gallery/5.jpg",
     "/gallery/6.jpg",
     "/gallery/19.jpg",
