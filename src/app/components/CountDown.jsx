@@ -39,7 +39,7 @@ export default function CountDown() {
   }, []);
 
   return (
-    <div className="absolute h-screen  md:bg-[url(/gallery/us.jpg)] bg-[url(/gallery/mine.jpg)] bg-cover min-w-full text-center py-4">
+    <div className="absolute h-screen  md:bg-[url(/gallery/us.jpg)] bg-[url(/gallery/mine.jpg)] bg-cover min-w-full text-center py-4 px-4">
       <div className=' bg-gray-200/80 md:w-3/5 m-auto md:shadow-[0_0_30px] rounded-md '>
       <h2 className='pt-6 text-6xl'>We are almost there!</h2>
       <ul className='flex md:flex-row flex-col md:items-center items-center pb-5 gap-x-2 md:justify-evenly justify-start pl-4 font-bold md:text-2xl text-lg   md:h-[60vh] h-screen'>
