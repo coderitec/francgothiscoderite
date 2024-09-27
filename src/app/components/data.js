@@ -207,6 +207,11 @@ export const wishesData =[
     image: "/Maryam.jpg"
   },
   {
+    name: "Olasunkanmi",
+    wish: "I'm beaming with pride and joy as you embark on this new chapter! Nassy, your academic and spiritual achievements inspire me. Your kindness, intelligence, and spirit have always shone brightly. I'm grateful for our shared memories and wish you a marriage filled with joy, laughter, and blessings. You will continue to inspire others!",
+    image: "/Olasunkanmi.jpg"
+  },
+  {
     name: "Matty",
     wish: "I am really excited to have this opportunity to say something good about you my brother, Franc. There is no better way to describe you than to say that you are an absolute good person. I grew up learning a lot from you including the virtues of goodness and kindness. I have always told people about how nice of a person you are, happy it will be in a permanent form this time. I wish you and your lovely wifey all the best in this your journey of love and companionship. Congratulations guys.",
     image: "/Matty.jpg"
