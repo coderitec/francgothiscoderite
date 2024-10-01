@@ -216,6 +216,11 @@ export const wishesData =[
     wish: "I am really excited to have this opportunity to say something good about you my brother, Franc. There is no better way to describe you than to say that you are an absolute good person. I grew up learning a lot from you including the virtues of goodness and kindness. I have always told people about how nice of a person you are, happy it will be in a permanent form this time. I wish you and your lovely wifey all the best in this your journey of love and companionship. Congratulations guys.",
     image: "/Matty.jpg"
   },
+ {
+    name: "Mr and Mrs Ebuka Ndejiobi",
+wish: "It's a true blessing to know that, for the rest of your life, there is someone in your corner. Through the highs and lows of life, I'm so glad you two have each other. May the two of you continue to love unconditionally and build a joyous life together. We,the family  of Mr and Mrs Ebuka Ndejuobi wish you nothing but the very best,your Godson Chidiomimi  is saying congratulations. Cheers to blissful marriage. Congratulations Franc and Nassy. Finally  Presido got the gold💃",
+image: "/IMG-20241001-WA0007.jpg"
+  },
   {
     name: "Olufunke and Peter",
     wish: "I was really excited to share my message but suddenly, I couldn't find words to express myself. Motomori! You are just as your name implies, an inspiration to this generation and Yes! Francis is blessed to have found a phenomenal human like You. May your home remain like that of Jesus,Mary and Joseph, bond in Agape Love and strengthened by the Mystical Body of Christ. Amen.",
