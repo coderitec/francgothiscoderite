@@ -212,6 +212,11 @@ export const wishesData =[
     image: "/Olasunkanmi.jpg"
   },
   {
+    name: "Obiageli Enemuo",
+    wish: "With heart full of joy, I express my inept gratitude to Almighty God for providing Franc with  his missing rib. As you begin a new chapter in marriage life, may the love that attracts two of you together continue to shine brightly. May your marriage be filled with true companionship, peace and your unconditional love to grow stronger  with each passing day. CONGRATULATIONS  NASSY FRANC❤!",
+    image: "/mom.png"
+  },
+  {
     name: "Matty",
     wish: "I am really excited to have this opportunity to say something good about you my brother, Franc. There is no better way to describe you than to say that you are an absolute good person. I grew up learning a lot from you including the virtues of goodness and kindness. I have always told people about how nice of a person you are, happy it will be in a permanent form this time. I wish you and your lovely wifey all the best in this your journey of love and companionship. Congratulations guys.",
     image: "/Matty.jpg"
@@ -219,7 +224,7 @@ export const wishesData =[
  {
     name: "Mr and Mrs Ebuka Ndejiobi",
 wish: "It's a true blessing to know that, for the rest of your life, there is someone in your corner. Through the highs and lows of life, I'm so glad you two have each other. May the two of you continue to love unconditionally and build a joyous life together. We,the family  of Mr and Mrs Ebuka Ndejuobi wish you nothing but the very best,your Godson Chidiomimi  is saying congratulations. Cheers to blissful marriage. Congratulations Franc and Nassy. Finally  Presido got the gold💃",
-image: "/IMG-20241001-WA0007.jpg"
+image: "/mmiri.jpg"
   },
   {
     name: "Olufunke and Peter",
