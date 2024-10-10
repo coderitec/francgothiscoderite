@@ -258,8 +258,8 @@ export const galleryData =[
   
   {
       title: "Registry",
-      link: "",
-      bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
+      link: "/registry",
+      bgImage: "url(/reg/reg3.png)"
     },
     {
         title: "Traditional Marriage",
@@ -284,4 +284,12 @@ export const imageData =[
     "/gallery/5.jpg",
     "/gallery/6.jpg",
     "/gallery/19.jpg",
+]
+
+export const regData =[
+    "/reg/reg8.png",
+    "/reg/reg10.png",
+    "/reg/reg6.png",
+    "/reg/reg2.png",
+    "/reg/reg1.png",
 ]

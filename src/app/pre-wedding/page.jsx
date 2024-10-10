@@ -4,7 +4,7 @@ import Image from 'next/image'
 import GratitudeSlide from '../components/GratitudeSlide'
 import Footer from '../components/Footer'
 
-const Page = () => {
+const PrePage = () => {
     return (
         <div>
             <div className='h-[85vh] backdrop-brightness-75 flex justify-center items-center'>
@@ -35,4 +35,4 @@ const Page = () => {
     )
 }
 
-export default Page
+export default PrePage
