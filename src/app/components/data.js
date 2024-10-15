@@ -246,6 +246,11 @@ image: "/mmiri.jpg"
     name: "Biola",
     wish: "Motomori my lovely sister from another mother, you are such a rare gem an angel to behold. Knowing you has really impacted my life positively, you are a goal getter! A zealous, dedicated, hard working a Virtuous Lady. As you step into this journey of matrimony may you be filled with wisdom, may the journey be sweet and God will grant both of you the grace to be together in peace forever. Amen. Francis is one of the luckiest men on earth!",
     image: "/biola.jpg"
+  },
+  {
+    name: "Damola",
+    wish: "Congratulations on your union! You’ve been such an incredible teacher and mentor, shaping my tech journey with your guidance and unwavering support. As you step into this new chapter, may your marriage be filled with boundless love, joy, and shared dreams. May you and your beautiful bride build a lifetime of happiness, peace, and blessings together. Wishing you all the very best in your new journey",
+    image: "/damola.jpg"
   }
 ]
 

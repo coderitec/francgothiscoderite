@@ -35,7 +35,7 @@ export default function SlideOne() {
         <div className='sm:w-1/2 flex sm:flex-row flex-col text-center sm:text-left'>
           <div className='sm:pr-3'>
             {/* placeholder image */}
-            <Image className='rounded-t-xl rounded-br-xl sm:rounded-t-full sm:rounded-br-[1150rem]' src='/him.jpg' width={1025} height={1025} alt='Francis Enemuo' title='Francis Enemuo' />   
+            <Image className='rounded-t-xl rounded-br-xl sm:rounded-t-full sm:rounded-br-[1150rem]' src='/him.jpg' width={1600} height={1600} alt='Francis Enemuo' title='Francis Enemuo' />   
           </div>
           <div className='sm:max-w-[70%] space-y-5'>
             <h1 className='text-3xl font-extrabold text-transparent bg-gradient-to-b from-[orange] to-blue-600 bg-clip-text py-2'>Francis Enemuo</h1>
