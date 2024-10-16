@@ -251,6 +251,16 @@ image: "/mmiri.jpg"
     name: "Damola",
     wish: "Congratulations on your union! You’ve been such an incredible teacher and mentor, shaping my tech journey with your guidance and unwavering support. As you step into this new chapter, may your marriage be filled with boundless love, joy, and shared dreams. May you and your beautiful bride build a lifetime of happiness, peace, and blessings together. Wishing you all the very best in your new journey",
     image: "/damola.jpg"
+  },
+  {
+    name: "Goodness",
+    wish: "Dear Mr. Francis,  Words cannot express how grateful I am for your incredible support and the knowledge you have so generously shared with me. You made me feel so comfortable and confident as I embarked on writing my very first code, something I never thought I could do on my own. Your patience, kindness, and unwavering belief in me have truly touched my heart.  You’ve not only been a mentor but also an inspiration, and for that, I will forever be thankful. I pray that all your heart’s desires are granted and that you continue to be a beacon of light and wisdom to everyone fortunate enough to cross your path. Your impact on my journey will stay with me always.  Sending you love and deepest appreciation.  With heartfelt thanks, Goodness",
+    image: "/Goodness.jpg"
+  },
+  {
+    name: "Oladele",
+    wish: "Dear Mr Francis, Wetin dey happen? I hear say you dey tie knot soon? Make I congratulate you, my Oga! May your union be blessed with love, laughter, and plenty bytes of happiness. May your wife be your perfect algorithm, solving all your problems and making your life complete. As you start this new chapter, I wish you wisdom, patience, and plenty bandwidth to navigate life's challenges together. You deserve all the happiness, my tutor! Congratulations once again! Wishing you a wonderful wedding ceremony and a lifetime of marital bliss. Oladele",
+    image: "/Oladele.jpg"
   }
 ]
 
