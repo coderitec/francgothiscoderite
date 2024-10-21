@@ -1,0 +1,29 @@
+@media screen and (min-width: 768px){
+    
+    .trad{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(10, 400);
+        gap: 30px;
+    }
+    
+    .trad > :first-child{
+        @apply md:row-span-2
+    }
+    
+    .trad > :nth-child(11){
+        @apply md:row-span-2 md:col-start-3 md:row-start-3
+    }
+    .trad > :nth-child(14){
+        @apply md:row-start-4 md:col-start-3
+}
+.trad > :nth-child(15){
+    @apply md:row-start-5 md:col-start-1
+}
+.trad > :nth-child(20){
+    @apply md:row-start-6 md:col-start-3
+}
+.trad > :nth-child(24){
+    @apply md:row-start-7 md:col-start-3
+}
+}
