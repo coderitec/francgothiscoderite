@@ -278,8 +278,8 @@ export const galleryData =[
     },
     {
         title: "Traditional Marriage",
-        link: "",
-        bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
+        link: "/traditional-marriage",
+        bgImage: "url(/trad/t1.jpg)"
     },
     
     {
@@ -307,4 +307,33 @@ export const regData =[
     "/reg/reg6.png",
     "/reg/reg2.png",
     "/reg/reg1.png",
+]
+
+export const tradData = [
+    "/trad/t1.jpg",
+    "/trad/t2.jpg",
+    "/trad/t3.jpg",
+    "/trad/t4.jpg",
+    "/trad/t5.jpg",
+    "/trad/t6.jpg",
+    "/trad/t7.jpg",
+    "/trad/t8.jpg",
+    "/trad/t9.jpg",
+    "/trad/t10.jpg",
+    "/trad/t11.jpg",
+    "/trad/t12.jpg",
+    "/trad/t13.jpg",
+    "/trad/t14.jpg",
+    "/trad/t15.jpg",
+    "/trad/tt16.jpg",
+    "/trad/t19.jpg",
+    "/trad/t17.jpg",
+    "/trad/t18.jpg",
+    "/trad/t20.jpg",
+    "/trad/t21.jpg",
+    "/trad/t22.jpg",
+    "/trad/t23.jpg",
+    "/trad/t24.jpg",
+    "/trad/t26.jpg",
+    "/trad/t25.jpg",
 ]
