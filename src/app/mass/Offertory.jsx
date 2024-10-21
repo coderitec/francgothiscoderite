@@ -15,7 +15,7 @@ export default function Offertory() {
   return (
     <div>
           <div className="flex items-center justify-around text-2xl capitalize">
-        <h2>Offertory hymn</h2>
+        <h2 onClick={handleClick}>Offertory hymn</h2>
         <div>
           <FaCircleMinus className={`${open ? 'flex': 'hidden'}`} onClick={handleClick}/>
           <FaPlusCircle className={`${open ? 'hidden': 'flex'}`} onClick={handleClick}/>

@@ -15,7 +15,7 @@ export default function Dismissal() {
   return (
     <div>
           <div className="flex items-center justify-around text-2xl capitalize">
-        <h2>Dismissal hymn</h2>
+        <h2 onClick={handleClick}>Dismissal hymn</h2>
         <div>
           <FaCircleMinus className={`${open ? 'flex': 'hidden'}`} onClick={handleClick}/>
           <FaPlusCircle className={`${open ? 'hidden': 'flex'}`} onClick={handleClick}/>
