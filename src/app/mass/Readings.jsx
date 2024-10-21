@@ -5,7 +5,7 @@ import { FaCircleMinus } from "react-icons/fa6";
 
 
 
-export default function Santus() {
+export default function Readings() {
     const [open, setOpen] = useState(false)
 
     function handleClick(){
@@ -24,7 +24,7 @@ export default function Santus() {
         </div>
         {open && 
         <div  className="w-4/5 m-auto">
-        <h1>Mimo l&apos;Olodumare</h1>
+        <h2>Mass Readings</h2>
 
             
        
