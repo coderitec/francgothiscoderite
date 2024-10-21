@@ -15,7 +15,7 @@ export default function Dismissal() {
   return (
     <div>
           <div className="flex items-center justify-around text-2xl capitalize">
-        <h2>Offertory hymn</h2>
+        <h2>Dismissal hymn</h2>
         <div>
           <FaCircleMinus className={`${open ? 'flex': 'hidden'}`} onClick={handleClick}/>
           <FaPlusCircle className={`${open ? 'hidden': 'flex'}`} onClick={handleClick}/>
@@ -42,36 +42,36 @@ export default function Dismissal() {
           <aside>
             <h2>Kábíyèsí o, hòsánnà o</h2>
             <div>                              
-                Kábíyèsí o, hòsánnà o
-                Ẹ yin Jésù Kristì Ọba àìkú
-                Kabiyesi o, hosanna o
-                Ẹ yin Jésù Kristì Ọba àìkú
+                Kábíyèsí o, hòsánnà o <br/>
+                Ẹ yin Jésù Kristì Ọba àìkú <br/>
+                Kabiyesi o, hosanna o <br/>
+                Ẹ yin Jésù Kristì Ọba àìkú <br/>
 
-                Ègbè
-                Ẹ gbé E ga, Ẹ yin Jésù o
-                Ẹ yin Jésù Kristì Ọba àìkú
+                Ègbè <br/>
+                Ẹ gbé E ga, Ẹ yin Jésù o <br/>
+                Ẹ yin Jésù Kristì Ọba àìkú <br/>
                 [Repeat]
 
-                Wá ká yin Jésù, ará mi ò
-                Ọba mímọ́ Jésù, Ọba àìrí
-                Wá júbà Jésù Olúwa ò
-                Yin Elédùmarè Ọba àìkú
+                Wá ká yin Jésù, ará mi ò <br/>
+                Ọba mímọ́ Jésù, Ọba àìrí <br/>
+                Wá júbà Jésù Olúwa ò <br/>
+                Yin Elédùmarè Ọba àìkú <br/>
 
-                Ègbè
+                Ègbè <br/>
+ <br/>
+                Ọbańgijì yé o, Olúwa ò <br/>
+                Wá gbọpẹ́ wá gba ìyìn àwa ọmọ Rẹ <br/>
+                Ángẹ́lì lọ́run ẹ bá wa yìn <br/>
+                Ẹ yin Jésù Krístì Ọba àìkú <br/>
 
-                Ọbańgijì yé o, Olúwa ò
-                Wá gbọpẹ́ wá gba ìyìn àwa ọmọ Rẹ
-                Ángẹ́lì lọ́run ẹ bá wa yìn
-                Ẹ yin Jésù Krístì Ọba àìkú
+                Ègbè <br/>
 
-                Ègbè
+                Alelúyà sí Ọ Olúwà o <br/>
+                Ọpẹ́, ọlá, ìyìn sí Olùbùkún <br/>
+                Ho-hosanna, alelúyà o <br/>
+                Ẹ yin Jésù Krístì Ọba àìkú <br/>
 
-                Alelúyà sí Ọ Olúwà o
-                Ọpẹ́, ọlá, ìyìn sí Olùbùkún
-                Ho-hosanna, alelúyà o
-                Ẹ yin Jésù Krístì Ọba àìkú
-
-                Ègbè
+                Ègbè <br/>
             </div>
           </aside>
 

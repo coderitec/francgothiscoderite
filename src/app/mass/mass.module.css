@@ -1,0 +1,8 @@
+.mass > *{
+    border-radius: 10px;
+    box-shadow: 0 0 25px gray;
+    cursor: pointer;
+    padding-block: 30px;
+    margin-block: 30px;
+    font-weight: bold;
+}
