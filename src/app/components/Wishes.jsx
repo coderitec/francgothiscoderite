@@ -22,7 +22,7 @@ export default function Wishes() {
                 pagination={{ clickable: true }}
                 scrollbar={{ draggable: true }}
                 onSwiper={(swiper) => console.log(swiper)}
-                autoplay={{ delay: 6000, disableOnInteraction: false }}
+                autoplay={{ delay: 15000, disableOnInteraction: false }}
                 onSlideChange={() => console.log('slide change')}
             >
 
