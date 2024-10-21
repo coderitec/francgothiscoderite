@@ -24,7 +24,7 @@ export default function Santus() {
         </div>
         {open && 
         <div  className="w-4/5 m-auto">
-        <h1>Mimo l&apos;Olodumare</h1>
+        <h2 className="mt-4 bg-orange-400">Mimo l&apos;Olodumare</h2>
 
             
        

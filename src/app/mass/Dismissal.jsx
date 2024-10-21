@@ -25,7 +25,7 @@ export default function Dismissal() {
         {open && 
         <div  className="w-4/5 m-auto">
           <aside>
-        <h2>Salve Regina</h2>
+        <h2 className="mt-4 bg-orange-400">Salve Regina</h2>
             <p>
               Salve, Regina, mater misericordiae; <br />
               Vita, dulcedo et spes nostra salve. <br />
@@ -40,7 +40,7 @@ export default function Dismissal() {
             </p>
           </aside>
           <aside>
-            <h2>Kábíyèsí o, hòsánnà o</h2>
+            <h2 className="mt-4 bg-orange-400">Kábíyèsí o, hòsánnà o</h2>
             <div>                              
                 Kábíyèsí o, hòsánnà o <br/>
                 Ẹ yin Jésù Kristì Ọba àìkú <br/>

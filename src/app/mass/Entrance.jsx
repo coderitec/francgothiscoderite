@@ -14,7 +14,7 @@ export default function Entrance() {
   return (
     <div>
       <div className="flex items-center justify-around text-2xl capitalize">
-        <h2>entrance hymn</h2>
+        <h2>Entrance hymn</h2>
         <div>
           <FaCircleMinus className={`${open ? 'flex': 'hidden'}`} onClick={handleClick}/>
           <FaPlusCircle className={`${open ? 'hidden': 'flex'}`} onClick={handleClick}/>
@@ -24,7 +24,7 @@ export default function Entrance() {
         {open &&
         <div className="w-4/5 m-auto">
         <article>
-            <h2>Christ, Be Our Light</h2>
+            <h2 className="mt-4 bg-orange-400">Christ, Be Our Light</h2>
             <em>By Bernadette Farrell</em>
             
             <aside>
@@ -97,7 +97,7 @@ export default function Entrance() {
         </article>
 
         <article>
-            <h2>Chineke Onyeoma</h2>
+            <h2  className="mt-4 bg-orange-400">Chineke Onyeoma</h2>
 
             <h3>Chorus:</h3>
             <p>Kele Chineke jaa Ya mma<br/>

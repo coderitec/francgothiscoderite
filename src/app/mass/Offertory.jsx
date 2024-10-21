@@ -24,7 +24,7 @@ export default function Offertory() {
         </div>
         {open && 
         <div  className="w-4/5 m-auto">
-        <h1>So Otu Ihe Kam N&apos;ario N&apos;aka Dinwenu</h1>
+        <h2 className="mt-4 bg-orange-400">So Otu Ihe Kam N&apos;ario N&apos;aka Dinwenu</h2>
 
             <h3>Chorus:</h3>
             <p>So otu ihe kam n&apos;ario n&apos;aka Dinwenu,<br/>
@@ -88,7 +88,7 @@ export default function Offertory() {
             Na mbosi ndu m nile.</p>
 
         <div>
-            <h2>yamba yamba, yamba yahwe</h2>
+            <h2 className="mt-4 bg-orange-400">yamba yamba, yamba yahwe</h2>
             <div>
                 yamba, yamba, yamba yahwe... <br />
                 yahwe, yamba, yamba yahwe... <br />
