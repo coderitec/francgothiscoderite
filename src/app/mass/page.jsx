@@ -5,10 +5,15 @@ import Offertory from "./Offertory";
 import Santus from "./Santus";
 import styles from './mass.module.css'
 
+import { Pacifico } from "next/font/google";
+
+
+const pac = Pacifico({ subsets: ["latin"], weight: "400" });
+
 export default function WeddingMass() {
   return (
-    <main className={`${styles.mass}`}>
-        <h1>Order of mass</h1>
+    <main className={`${styles.mass} ${pac.className}`}>
+        <h1 className="text-center">Order of mass</h1>
         <Entrance/>
         <Offertory/>
         <Santus/>
