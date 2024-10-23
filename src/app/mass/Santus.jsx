@@ -25,7 +25,21 @@ export default function Santus() {
         {open && 
         <div  className="w-4/5 m-auto">
         <h2 className="mt-4 bg-orange-400">Mimo l&apos;Olodumare</h2>
-
+          <p>
+            Mimo l'Olodumare <br />
+            Mimo mimo mimo <br />
+            Mimo ooo Oluwa X2 <br />
+ <br />
+            Orun oun aye n yin o logo o  <br />
+            Mimo mimo mimo <br />
+            Mimo ooo Oluwa X2 <br />
+ <br />
+            Ibunkun ni f'eni to n bo wa l'oruko Oluwa o <br />
+            Mimo mimo mimo <br />
+            Mimo ooo Oluwa X2 <br />
+ <br />
+            Hossana l'oke orun o X2 <br />
+          </p>
             
        
        
