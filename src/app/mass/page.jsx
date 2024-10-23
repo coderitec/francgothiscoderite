@@ -14,7 +14,7 @@ const pac = Pacifico({ subsets: ["latin"], weight: "400" });
 export default function WeddingMass() {
   return (
     <main className={`${styles.mass} ${pac.className}`}>
-        <h1 className="text-center">Order of mass</h1>
+        <h1 className="text-center">Hymns </h1>
         <Entrance/>
         {/* <Readings/> */}
         <Offertory/>
