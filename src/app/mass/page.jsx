@@ -16,7 +16,7 @@ export default function WeddingMass() {
     <main className={`${styles.mass} ${pac.className}`}>
         <h1 className="text-center">Order of mass</h1>
         <Entrance/>
-        <Readings/>
+        {/* <Readings/> */}
         <Offertory/>
         <Santus/>
         <Communion/>

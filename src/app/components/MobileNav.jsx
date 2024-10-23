@@ -18,7 +18,10 @@ export default function MobileNav({ onLinkClick }) {
           <Link href='/prayer'>Pray with Us</Link>
         </li>
         <li onClick={onLinkClick}>
-          <Link href='/mass'>Wedding Mass</Link>
+          <Link href='/order-of-mass'>order of Mass</Link>
+        </li>
+        <li onClick={onLinkClick}>
+          <Link href='/mass'>songs</Link>
         </li>
       </ul>
     </nav>

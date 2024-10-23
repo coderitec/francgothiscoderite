@@ -23,70 +23,101 @@ export default function Communion() {
 
         </div>
         {open && 
-        <div  className="w-4/5 m-auto">
-        <h1>So Otu Ihe Kam N&apos;ario N&apos;aka Dinwenu</h1>
+        <div>
+        
+          <h3 className="mt-4 bg-orange-400">Abum Achicha</h3> 
+          <p>
+          
+            Kristi ekwugo ya wee si <br />
+            Beere so m'iriri <br />
+            Ahu na obara nwa nke m madu nkwa obara ya <br />
+            Beere so m'iriri ya nwannem <br />
+            Iriri ahu mo <br />
+            Beere so m'inuru obara muo <br />
+            Obara di oke onu <br />
+            I gaghi enwe ndu ni me gi <br />
+ <br />
+            Abum Achicha din du  <br />
+            Dinweum na-ekwu <br />
+            Abum Achicha din du  <br />
+            Si n'eluigwe bia <br />
+            Abum Achicha din du  <br />
+            Nri na-enye ndu n'ezie <br />
+            Abum Achicha din du  <br />
+            Si n'eluigwe bia <br />
+ <br />
+            Onye riri ahu muo ahu muo <br />
+            Onye nuru obara muo <br />
+            G'adi ndu n'ezie  <br />
+            Onye riri ahu muo ahu muo <br />
+            Onye nuru obara muo <br />
+            G'adi ndu opu <br />
+ <br />
 
-            <h3>Chorus:</h3>
-            <p>So otu ihe kam n&apos;ario n&apos;aka Dinwenu,<br/>
-            Ka m biri ka m biri n&apos;ulo nke Dinwenu,<br/>
-            Na mbosi ndu m nile,<br/>
-            Ka m na-ahu ih&apos;iru Ya,<br/>
-            Ka m na-ekiri ulo Ya,<br/>
-            Ka m biri n&apos;ulo Dinwenu,<br/>
-            Na mbosi ndu m nile.</p>
+          </p>
+          <h3 className="mt-4 bg-orange-400">As the Deer</h3>
+          <p>
+          
+          As the deer panteth for the water <br />
+          So my soul longeth after Thee <br />
+          You alone are my heart’s desire <br />
+          And I long to worship Thee <br />
+          You alone are my Strength, my Shield <br />
+          To You alone may my spirit yield <br />
+          You alone are my heart’s desire <br />
+          And I long to worship Thee. <br />
+ <br />
+          You’re my Friend and You are my Brother <br />
+          Even though You are a King <br />
+          I love You more than any other <br />
+          So much more than anything <br />
+          You alone are my Strength, my Shield <br />
+          To You alone may my spirit yield <br />
+          You alone are my heart’s desire <br />
+          And I long to worship Thee. <br />
+ <br />
+          I want You more than gold or silver <br />
+          Only You can satisfy <br />
+          You alone are the real joy-giver <br />
+          And the apple of my eye <br />
+          You alone are my Strength, my Shield <br />
+          To You alone may my spirit yield <br />
+          You alone are my heart’s desire <br />
+          And I long to worship Thee. <br />
+ <br />
 
-            <h3>Verse 1:</h3>
-            <p>Dinwenu bu ihe na nzoputa m; Onye kam ga atu egwu?<br/>
-            Dinwenu bu ebe mgbaba m, onye g’eyi m egwu?</p>
+          </p>
 
-            <h3>Chorus:</h3>
-            <p>So otu ihe kam n&apos;ario n&apos;aka Dinwenu,<br/>
-            Ka m biri ka m biri n&apos;ulo nke Dinwenu,<br/>
-            Na mbosi ndu m nile,<br/>
-            Ka m na-ahu ih&apos;iru Ya,<br/>
-            Ka m na-ekiri ulo Ya,<br/>
-            Ka m biri n&apos;ulo Dinwenu,<br/>
-            Na mbosi ndu m nile.</p>
+          <h3 className="mt-4 bg-orange-400">Take me deeper</h3>
+          <p>
+          
 
-            <h3>Verse 2:</h3>
-            <p>O ga-ezobe m ebe obibi Ya mbosi ogba aghara:::<br/>
-            O ga ezo bem n’ime mkpu-kpu Ya;<br/>
-            Kwubasie m ike na nkpume.</p>
-
-            <h3>Chorus:</h3>
-            <p>So otu ihe kam n&apos;ario n&apos;aka Dinwenu,<br/>
-            Ka m biri ka m biri n&apos;ulo nke Dinwenu,<br/>
-            Na mbosi ndu m nile,<br/>
-            Ka m na-ahu ih&apos;iru Ya,<br/>
-            Ka m na-ekiri ulo Ya,<br/>
-            Ka m biri n&apos;ulo Dinwenu,<br/>
-            Na mbosi ndu m nile.</p>
-
-            <h3>Verse 3:</h3>
-            <p>Aga m ewere obi anuri na-achu aja n’ulo Dinwenu.<br/>
-            Agam ekwe ukwe anuri nye Dinwenu.</p>
-
-            <h3>Chorus:</h3>
-            <p>So otu ihe kam n&apos;ario n&apos;aka Dinwenu,<br/>
-            Ka m biri ka m biri n&apos;ulo nke Dinwenu,<br/>
-            Na mbosi ndu m nile,<br/>
-            Ka m na-ahu ih&apos;iru Ya,<br/>
-            Ka m na-ekiri ulo Ya,<br/>
-            Ka m biri n&apos;ulo Dinwenu,<br/>
-            Na mbosi ndu m nile.</p>
-
-            <h3>Verse 4:</h3>
-            <p>Otito diri Nna na Nwa na Mmuo Nso n’uwatuwa nile.</p>
-
-            <h3>Chorus:</h3>
-            <p>So otu ihe kam n&apos;ario n&apos;aka Dinwenu,<br/>
-            Ka m biri ka m biri n&apos;ulo nke Dinwenu,<br/>
-            Na mbosi ndu m nile,<br/>
-            Ka m na-ahu ih&apos;iru Ya,<br/>
-            Ka m na-ekiri ulo Ya,<br/>
-            Ka m biri n&apos;ulo Dinwenu,<br/>
-            Na mbosi ndu m nile.</p>
-        </div>
+        Take me deeper in love with you <br />
+        Jesus, o deeper in love <br />
+        Hold me closer in love with you <br />
+        Jesus o closer in love with you <br />
+ <br />
+        Lord there is a longing only you can fill <br />
+        A ranging tempest only you can still <br />
+        My soul is thirsting for you, o my God <br />
+        Lord quench my thirst <br />
+        Lord feed my soul <br />
+ <br />
+        Take me deeper in love with you <br />
+        Jesus, o deeper in love <br />
+        Hold me closer in love with you <br />
+        Jesus o closer in love with you <br />
+ <br />
+        Yes from sunrise to sunrise I seek your face <br />
+        From day to day I long for your touch <br />
+        To hold my hand Lord lest I fall <br />
+        To draw me nearer closer to thee <br />
+        Take me deeper in love with you <br />
+        Jesus, o deeper in love <br />
+        Hold me closer in love with you <br />
+        Jesus o closer in love with you <br />
+          </p>
+          </div>
 }
     </div>
   )
