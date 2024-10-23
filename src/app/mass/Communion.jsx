@@ -29,29 +29,29 @@ export default function Communion() {
           <p>
           
             Kristi ekwugo ya wee si <br />
-            Beere so m'iriri <br />
+            Beere so m&apos;iriri <br />
             Ahu na obara nwa nke m madu nkwa obara ya <br />
-            Beere so m'iriri ya nwannem <br />
+            Beere so m&apos;iriri ya nwannem <br />
             Iriri ahu mo <br />
-            Beere so m'inuru obara muo <br />
+            Beere so m&apos;inuru obara muo <br />
             Obara di oke onu <br />
             I gaghi enwe ndu ni me gi <br />
  <br />
             Abum Achicha din du  <br />
             Dinweum na-ekwu <br />
             Abum Achicha din du  <br />
-            Si n'eluigwe bia <br />
+            Si n&apos;eluigwe bia <br />
             Abum Achicha din du  <br />
-            Nri na-enye ndu n'ezie <br />
+            Nri na-enye ndu n&apos;ezie <br />
             Abum Achicha din du  <br />
-            Si n'eluigwe bia <br />
+            Si n&apos;eluigwe bia <br />
  <br />
             Onye riri ahu muo ahu muo <br />
             Onye nuru obara muo <br />
-            G'adi ndu n'ezie  <br />
+            G&apos;adi ndu n&apos;ezie  <br />
             Onye riri ahu muo ahu muo <br />
             Onye nuru obara muo <br />
-            G'adi ndu opu <br />
+            G&apos;adi ndu opu <br />
  <br />
 
           </p>
@@ -60,20 +60,20 @@ export default function Communion() {
           
           As the deer panteth for the water <br />
           So my soul longeth after Thee <br />
-          You alone are my heart’s desire <br />
+          You alone are my heart&apos;s desire <br />
           And I long to worship Thee <br />
           You alone are my Strength, my Shield <br />
           To You alone may my spirit yield <br />
-          You alone are my heart’s desire <br />
+          You alone are my heart&apos;s desire <br />
           And I long to worship Thee. <br />
  <br />
-          You’re my Friend and You are my Brother <br />
+          You&apos;re my Friend and You are my Brother <br />
           Even though You are a King <br />
           I love You more than any other <br />
           So much more than anything <br />
           You alone are my Strength, my Shield <br />
           To You alone may my spirit yield <br />
-          You alone are my heart’s desire <br />
+          You alone are my heart&apos;s desire <br />
           And I long to worship Thee. <br />
  <br />
           I want You more than gold or silver <br />
@@ -82,7 +82,7 @@ export default function Communion() {
           And the apple of my eye <br />
           You alone are my Strength, my Shield <br />
           To You alone may my spirit yield <br />
-          You alone are my heart’s desire <br />
+          You alone are my heart&apos;s desire <br />
           And I long to worship Thee. <br />
  <br />
 
