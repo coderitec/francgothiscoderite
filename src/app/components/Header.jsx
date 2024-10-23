@@ -34,21 +34,24 @@ export default function Header() {
       </h1>
 
       <nav className='hidden lg:flex items-center justify-between space-x-5 font-semibold font-sans'>
-        <Link href='/our-story'>
-          <ul>
-            <li>Our Story</li>
-          </ul>
-        </Link>
-        <Link href='/support-us'>
-          <ul>
-            <li>Support Us</li>
-          </ul>
-        </Link>
-        <Link href='/prayer'>
-          <ul>
-            <li>Pray with Us</li>
-          </ul>
-        </Link>
+      <li>
+          <Link href='/'>Home</Link>
+        </li>
+        <li>
+          <Link href='/our-story'>Our Story</Link>
+        </li>
+        <li>
+          <Link href='/support-us'>Support Us</Link>
+        </li>
+        <li>
+          <Link href='/prayer'>Pray with Us</Link>
+        </li>
+        <li>
+          <Link href='/order-of-mass'>Order of Mass</Link>
+        </li>
+        <li>
+          <Link href='/mass'>Songs</Link>
+        </li>
       </nav>
 
       <div className='flex lg:hidden cursor-pointer' onClick={switchHamburger}>
