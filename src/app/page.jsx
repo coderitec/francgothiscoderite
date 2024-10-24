@@ -16,7 +16,7 @@ export const metadata = {
 export default function Home() {
   return (
     <main>
-      <CountDown/>
+      {/* <CountDown/> */}
       <HomePage />
       <SlideOne />
       <SlideTwo />
