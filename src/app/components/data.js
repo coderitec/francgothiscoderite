@@ -284,8 +284,8 @@ export const galleryData =[
     
     {
       title: "Wedding",
-      link: "",
-      bgImage: "url(https://placehold.jp/30/ffa500/ffffff/150x150.png?text=Loading...)"
+      link: "/wedding",
+      bgImage: "url(/wedding/p12.jpg)"
     },
 ]
 
@@ -336,4 +336,32 @@ export const tradData = [
     "/trad/t24.jpg",
     "/trad/t26.jpg",
     "/trad/t25.jpg",
+]
+export const wedData = [
+    "/wedding/p1.jpg",
+    "/wedding/p2.jpg",
+    "/wedding/p3.jpg",
+    "/wedding/p4.jpg",
+    "/wedding/p5.jpg",
+    "/wedding/p6.jpg",
+    "/wedding/p7.jpg",
+    "/wedding/p8.jpg",
+    "/wedding/p9.jpg",
+    "/wedding/p10.jpg",
+    "/wedding/p11.jpg",
+    "/wedding/p12.jpg",
+    "/wedding/p13.jpg",
+    "/wedding/p14.jpg",
+    "/wedding/p15.jpg",
+    "/wedding/pt16.jpg",
+    "/wedding/p19.jpg",
+    "/wedding/p17.jpg",
+    "/wedding/p18.jpg",
+    "/wedding/p20.jpg",
+    "/wedding/p21.jpg",
+    "/wedding/p22.jpg",
+    "/wedding/p23.jpg",
+    "/wedding/p24.jpg",
+    "/wedding/p26.jpg",
+    "/wedding/p25.jpg",
 ]
