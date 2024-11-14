@@ -259,15 +259,15 @@ image: "/mmiri.jpg"
   },
   {
     name: "Oladele",
-    wish: "Dear Mr Francis, Wetin dey happen? I hear say you dey tie knot soon? Make I congratulate you, my Oga! May your union be blessed with love, laughter, and plenty bytes of happiness. May your wife be your perfect algorithm, solving all your problems and making your life complete. As you start this new chapter, I wish you wisdom, patience, and plenty bandwidth to navigate life's challenges together. You deserve all the happiness, my tutor! Congratulations once again! Wishing you a wonderful wedding ceremony and a lifetime of marital bliss. Oladele",
+    wish: "Dear Mr Francis, Wetin dey happen? I hear say you dey tie knot soon? Make I congratulate you, my Oga! May your union be blessed with love, laughter, and plenty bytes of happiness. May your wife be your perfect algorithm, solving all your problems and making your life complete. As you start this new chapter, I wish you wisdom, patience, and plenty bandwidth to navigate life's challenges together. You deserve all the happiness, my tutor! Congratulations once again! Wishing you a wonderful wed ceremony and a lifetime of marital bliss. Oladele",
     image: "/Oladele.jpg"
   }
 ]
 
 export const galleryData =[
   {
-    title: "Pre-Wedding ",
-    link: "/pre-wedding",
+    title: "Pre-wed ",
+    link: "/pre-wed",
     bgImage: "url(/gallery/1.jpg)"
   },
   
@@ -283,9 +283,9 @@ export const galleryData =[
     },
     
     {
-      title: "Wedding",
+      title: "wed",
       link: "/wedding",
-      bgImage: "url(/wedding/p12.jpg)"
+      bgImage: "url(/wed/p12.jpg)"
     },
 ]
 
@@ -338,35 +338,35 @@ export const tradData = [
     "/trad/t25.jpg",
 ]
 export const wedData = [
-    "/wedding/p1.jpg",
-    "/wedding/p2.jpg",
-    "/wedding/p3.jpg",
-    "/wedding/p4.jpg",
-    "/wedding/p5.jpg",
-    "/wedding/p6.jpg",
-    "/wedding/p7.jpg",
-    "/wedding/p8.jpg",
-    "/wedding/p9.jpg",
-    "/wedding/p10.jpg",
-    "/wedding/p11.jpg",
-    "/wedding/p12.jpg",
-    "/wedding/p13.jpg",
-    "/wedding/p14.jpg",
-    "/wedding/p15.jpg",
-    "/wedding/p16.jpg",
-    "/wedding/p19.jpg",
-    "/wedding/p17.jpg",
-    "/wedding/p18.jpg",
-    "/wedding/p20.jpg",
-    "/wedding/p21.jpg",
-    "/wedding/p22.jpg",
-    "/wedding/p23.jpg",
-    "/wedding/p24.jpg",
-    "/wedding/p25.jpg",
-    "/wedding/p26.jpg",
-    "/wedding/p27.jpg",
-    "/wedding/p28.jpg",
-    "/wedding/p29.jpg",
-    "/wedding/p30.jpg",
-    "/wedding/p231.jpg",
+    "/wed/p1.jpg",
+    "/wed/p2.jpg",
+    "/wed/p3.jpg",
+    "/wed/p4.jpg",
+    "/wed/p5.jpg",
+    "/wed/p6.jpg",
+    "/wed/p7.jpg",
+    "/wed/p8.jpg",
+    "/wed/p9.jpg",
+    "/wed/p10.jpg",
+    "/wed/p11.jpg",
+    "/wed/p12.jpg",
+    "/wed/p13.jpg",
+    "/wed/p14.jpg",
+    "/wed/p15.jpg",
+    "/wed/p16.jpg",
+    "/wed/p19.jpg",
+    "/wed/p17.jpg",
+    "/wed/p18.jpg",
+    "/wed/p20.jpg",
+    "/wed/p21.jpg",
+    "/wed/p22.jpg",
+    "/wed/p23.jpg",
+    "/wed/p24.jpg",
+    "/wed/p25.jpg",
+    "/wed/p26.jpg",
+    "/wed/p27.jpg",
+    "/wed/p28.jpg",
+    "/wed/p29.jpg",
+    "/wed/p30.jpg",
+    "/wed/p231.jpg",
 ]
