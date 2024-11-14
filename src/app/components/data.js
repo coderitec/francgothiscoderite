@@ -368,5 +368,5 @@ export const wedData = [
     "/wed/p28.jpg",
     "/wed/p29.jpg",
     "/wed/p30.jpg",
-    "/wed/p231.jpg",
+    "/wed/p31.jpg",
 ]
