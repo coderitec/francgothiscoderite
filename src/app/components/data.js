@@ -283,7 +283,7 @@ export const galleryData =[
     },
     
     {
-      title: "wed",
+      title: "Church Marriage",
       link: "/wedding",
       bgImage: "url(/wed/p12.jpg)"
     },
