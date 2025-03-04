@@ -267,7 +267,7 @@ image: "/mmiri.jpg"
 export const galleryData =[
   {
     title: "Pre-wed ",
-    link: "/pre-wed",
+    link: "/pre-wedding",
     bgImage: "url(/gallery/1.jpg)"
   },
   
